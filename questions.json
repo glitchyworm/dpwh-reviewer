@@ -1,0 +1,6602 @@
+[
+  {
+    "id": 1,
+    "question": "1. What test determined the crushing of strength of aggregates to ensure that coarse aggregates will not degrade to smaller ones.",
+    "choices": [
+      " Abrasion",
+      "Grading",
+      "Density",
+      "Plasticity test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "2. A one-lane road, with of 3.5 meters and shoulder width of 0.5 meter on each side of the pavement was designed to have sub-base and base coarse with a combined thickness of 300mm. If the thickness of the sub-base is 125mm, the spreading and compaction of the sub-base and base coarse shall be carried out in",
+    "choices": [
+      " 3 layer over the full width of 4.5 m",
+      "2 layers over the full width of 4.5 m",
+      "3 layers over the full width of 3.5 m",
+      "2 layers over the full width of 3.5 m"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "3. Weakened joints on concrete pavement should be sawed",
+    "choices": [
+      " Immediately after the pavement surface has been brooms finished",
+      "Sawing of joints shall commerce as soon as the concrete has hardened sufficiently, usually within 24 hours",
+      "Before the pavements opened to traffic usually 14 days from the day\nof pouring",
+      "After 48 hrs."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "4. What depth of weakened joint should at all times not be less than",
+    "choices": [
+      " 50 mm",
+      "60 mm",
+      "70 mm",
+      "75 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "5. Cores are taken from a concrete pavement and tested for",
+    "choices": [
+      " Strength verification of concrete in place that is considered adequate",
+      "Flexural strength determination",
+      "Cement content determination",
+      "Thickness determination"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "question": "6. In accepting completed concrete pavement poured by lane thickness determination shall come out by obtaining one core from every",
+    "choices": [
+      " 100 meters ",
+      "200 meters ",
+      "500 meters ",
+      "1000 meters"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "7. If the strength of Item 311 control specimens does not meet the requirements by not more than 25% and it is not feasible to obtain cores from the structure due to structural consideration:",
+    "choices": [
+      " The strength of in-place concrete will be determined by rebound hammer ",
+      "Pavement of the concrete will be made at an adjusted price",
+      "No pavement will be made on the concrete represented by the failed specimen",
+      "The contractor will be required to remove and replace the concrete  represented by the failed specimens at his own expense."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "8. The flexural strength requirements of item 311 is ",
+    "choices": [
+      " 500 psi ",
+      "550 psi ",
+      "3000 psi ",
+      "3500 psi"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "9. The number of sets of beam test specimens that should be taken from  700 sq.m. of concrete pavements, 0.23 cm thick poured on a single day  should be: ",
+    "choices": [
+      "2",
+      "3",
+      "6",
+      "9"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "10.Three cores taken from  a pavement section poured on a single day were tested to have strength as follows: \nCore              \n1                          3650 \n2                          3000 86% of 3500 psi \n3                          2450 70% of 3500 psi \nAverage             3033 87% of 3500 psi \nIf the required strength is 3500 psi concrete are represented by the cores",
+    "choices": [
+      " Maybe accepted, subject to price adjustment ",
+      "Is considered adequate ",
+      "Is considered inadequate ",
+      "May be recored at the initiative of the implementing office "
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "11.Forms for concrete pavement shall remain in place undisturbed for not  \nless than",
+    "choices": [
+      "24 hours after concrete pouring",
+      "The curing period",
+      "The period required to attain the design strength ",
+      "72 hours after concrete pouring"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "12.The Ph value of water that is acceptable for use in concrete mix is",
+    "choices": [
+      " 2.0 to 3.1",
+      "3.2 to 4.4 ",
+      "4.5 to 8.5",
+      "8.6 to 10.0"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "13.How many measurements are needed for thickness determination of concrete cores? ",
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "question": "14. What is the strength for load bearing hollow blocks?",
+    "choices": [
+      " 600 psi ",
+      "700 psi ",
+      "800 psi",
+      "1000 psi"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "15.What is the single factor that determines the strength of concrete? ",
+    "choices": [
+      " Slump",
+      "Water-cement ratio",
+      "Cement factor",
+      "Gradation of aggregates"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "16. What is the curve formed on a maximum dry density and optimum moisture content graph?",
+    "choices": [
+      "Parabola",
+      "Hyperbola",
+      "Straight line",
+      "None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "17.Which of the following is accepted for concrete with fc at 28 days of 3500 psi?",
+    "choices": [
+      "3275 psi; 3020 psi; 2630 psi",
+      "2640 psi; 3010 psi; 3030 psi",
+      "3030 psi; 2790 psi; 2599 psi",
+      "3300 psi; 3330 psi; 2620 psi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "18. In a design mix, the specific gravity of Portland cement must be",
+    "choices": [
+      "3.05",
+      "3.1",
+      "3.15",
+      "6.1"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "19.The role of application of prime coat before asphalt overlaying is",
+    "choices": [
+      " 0.2 to 0.7 l/sq.m.",
+      "0.8 to 0.9 l/sq.m",
+      "1.0 to 2.0 l/sq.m.",
+      "2.1 to 2.5 l/sq.m."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "20. The most commonly used method in the design and evaluation of bituminous concrete mixes",
+    "choices": [
+      " Design mix",
+      "Marshall stability",
+      "Index of retained strength",
+      "Immersion / compression test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "21.Which of the following penetration grade of asphalt is used in cold climate?",
+    "choices": [
+      " 120/50",
+      "85/100",
+      "60/70",
+      "40/50"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "22. If sea water is used in a concrete mix, what will be the effect on the hardened concrete pavement?",
+    "choices": [
+      "Strength is affected",
+      "Scaling at surface",
+      "Cracks at the side",
+      "Steel bars will rust"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "question": "23.The job mix formula contain the following provision except",
+    "choices": [
+      " Grading of aggregate",
+      "Temperature of aggregates and asphalt",
+      "Index of retained strength value",
+      "Type of asphalt and percentage"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "24. Scaling of newly constructed concrete pavement is an evidence of inadequate quality control mainly due to high",
+    "choices": [
+      " Fineness modules",
+      "Slump",
+      "Fine aggregates content",
+      "Water cement ratio"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "25.The grade designation of a reinforcing steel bars is also its",
+    "choices": [
+      " Nominal area",
+      "Yield strength",
+      "Tensile strength",
+      "Unit mass"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "26.Which of the following is not an engineering property of granular soils?",
+    "choices": [
+      " Good load bearing qualities",
+      "Drain readily",
+      "Susceptible to strength or volume change due to change in water content",
+      "Comparatively incompressible due to static load"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "27. Peat is an example of ",
+    "choices": [
+      " Inorganic soil",
+      "Organic soil",
+      "Selected borrow",
+      "Embankment material"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "28.Which of the following is an engineering property of line grained soil?",
+    "choices": [
+      "hard to drain",
+      "Susceptible to volume change under vibratory load, if not adequately compacted",
+      "Stable when subjected to load",
+      "Settlement is high"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "29. The dividing size between coarse and fine aggregates used in asphalting is",
+    "choices": [
+      " no. 4",
+      "No. 8 ",
+      "No. 16 ",
+      "No. 30"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "30.The objective of designing the asphalt mixture is determination of",
+    "choices": [
+      " Index of retained strength",
+      "Penetration grade of asphalt",
+      "Temperature of mix",
+      "Production control"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "31.The sample of reinforcing steel bars for every 10,000 kgs shall be",
+    "choices": [
+      " 1 meter long",
+      "2 meters long",
+      "4 meters long",
+      "6 meters long"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "32.Given:  Specific gravity = 2.305\n     Wet compressive strength = 1000 kpa\n     Dry compressive strength = 1400 kpa\nWhat is the index of retained strength value?",
+    "choices": [
+      "0.701",
+      "0.714",
+      "0.4",
+      "1.4"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "33.The variation on tolerance of the surface from the testing edge of the straight edge in contact with the surface of asphalt pavement is",
+    "choices": [
+      "+/- 2mm",
+      "+/- 4mm",
+      "+/- 9 mm",
+      "+/- 5 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "34.The specific irregularity tolerance for item 201 is",
+    "choices": [
+      "5 mm",
+      "10 mm",
+      "15 mm",
+      "20 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "35. The depth of the weakened plane joint with a width of 6 mm is ",
+    "choices": [
+      "40 mm",
+      "45 mm",
+      "50 mm",
+      "60 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "36. Which of the following is not the job for a materials engineer? ",
+    "choices": [
+      "Submits samples for testing",
+      "Prepares design mix",
+      "Checks job mix formula",
+      "Surveys and measures line and grade at site"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 37,
+    "question": "37.The proper way of sampling of aggregate base course in the laboratory if the the splitter is not available is to",
+    "choices": [
+      "Scoop for samples in the middle of the sack",
+      "Spread the samples on the ground and take the samples in the middle ",
+      "Spread the samples on the ground and divide the samples into four and take two opposite parts from it.",
+      "Scoop for samples at the side of the sack"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "question": "38. Given: Original weight of sample, g 5000, Sample retained on No. 12 sieve, g 4178 \nWhat is the abrasion loss?",
+    "choices": [
+      "0.1642",
+      "0.1644",
+      "0.1967",
+      "0.1976"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "39.Which is true on conducting of a slump test?",
+    "choices": [
+      "Consistency of mixture is checked by the slump test",
+      "It is simple, but important, n indicator of water – cement ratio",
+      "Slump cone is used together with tamping rod and ruler",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "question": "40.Reinforced concrete pipe culverts are tested for compressive strength to produce _______ crack.",
+    "choices": [
+      "0.20 mm",
+      "0.25 mm",
+      "0.30 mm",
+      "0.35 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "question": "41.The bituminous materials commonly used in item 310 is ",
+    "choices": [
+      "Asphalt emulsion",
+      "Asphalt cement",
+      "Liquid asphalt",
+      "Cutback asphalt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "42.Item 310 mixture shall have an index of retained strength of not less than",
+    "choices": [
+      "66",
+      "70",
+      "97",
+      "107"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "43. Final compaction and smoothing of item 310 should be done by a",
+    "choices": [
+      "pneumatic – tired roller",
+      "Sheep foot roller",
+      "Vibratory roller",
+      "Tandem smooth wheel roller"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "44. Item 310 mixture shall be delivered to the paver at a temperature not less than",
+    "choices": [
+      "66 ºC",
+      "97 ºC",
+      "107 ºC",
+      "110 ºC"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "question": "45. In the asphalting of a two lane, 500 meter road which lasted for three days, how many core samples should be taken from the pavement if no sample was taken at the end of each days operation? ",
+    "choices": [
+      "3",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "question": "46. Which of the following provisions is not included in the job – mix formula?",
+    "choices": [
+      "Mixing time",
+      "Grading of aggregates",
+      "Asphalt cement",
+      "Temperature at delivery"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 47,
+    "question": "47. A bituminous mix subjected to immersion – compression test yielded a dry stability of 2.0 kg and a wet stability of 1.5 kg. The index of retained\nstrength of the mix is",
+    "choices": [
+      "0.5",
+      "1.33",
+      "33",
+      "75"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 48,
+    "question": "48. In item 310, bitumen content, expressed in terms of percentage by mass of aggregate, shall be",
+    "choices": [
+      "3 to 5 %",
+      "4 to 7 %",
+      "5 to 8 %",
+      "6 to 8 %"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "question": "49.In the asphalting of a 3 – meter wide, 200 meter long road lane, a core was obtained and tested to have a thickness of 5 cm. And a density of\n2.25 gm/ cm³. the quantity of bituminous mix to be paid, in tonnes, is",
+    "choices": [
+      "65.5",
+      "67.5",
+      "655",
+      "675"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "question": "50. After final rolling, the compacted asphalt pavement shall have a density equal top, or greater than % of the laboratory compacted density.",
+    "choices": [
+      "90",
+      "95",
+      "97",
+      "98"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "question": "51. Scales for weighing aggregates and cement shall be accurate within % throughout the range of use.  Scales shall be inspected and sealed as often as the Engineer may deem necessary to assure their continued accuracy,",
+    "choices": [
+      "0.01",
+      "0.015",
+      "0.005",
+      "0.02"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "question": "52. When cement is placed in contact with the aggregate, batches maybe rejected unless mixed within ____ hours of such contact. ",
+    "choices": [
+      "1.5 hours",
+      "2.0 hours",
+      "0.5 hours",
+      "2.0 hours"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "question": "53. When mixed at the site or in a central mixing plant, the mixing time not be less than ____ nor more than ____unless mixer performance test prove adequate mixing of concrete in a shorter time period.",
+    "choices": [
+      "30 seconds nor more than 90 seconds",
+      "50 seconds nor more than 90 seconds",
+      "60 seconds nor more than 120 seconds",
+      "90 seconds nor more than 120 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "question": "54. The flow of water shall be uniform and all water should be in the drum by the end of the first ____seconds of the mixing period.",
+    "choices": [
+      "45 seconds",
+      "30 seconds",
+      "15 seconds",
+      "20 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "question": "55. Concrete not place within ____minutes from the time the ingredients were charged into the mixing drum shall not be used.",
+    "choices": [
+      "120 minutes",
+      "150 minutes",
+      "60 minutes",
+      "90 minutes"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "question": "56. When concrete is delivered in truck mixers, additional water maybe added to the batch and additional mixing performed to increase the slump to meet the specified requirement if permitted by the Engineer, provided all these operation are performed within ____after the initial mixing operation and water and cement ratio is not exceeded.",
+    "choices": [
+      "30 minutes",
+      "15 minutes",
+      "45 minutes",
+      "60 minutes"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "question": "57. A sample from a bituminous mix weighs 1000 grams.  At extraction, it was found out that the dry aggregate weighed 950 grams, What is the % of asphalt by weight of mix?",
+    "choices": [
+      "0.052",
+      "0.05",
+      "0.054",
+      "0.048"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "question": "58. The minimum penetration of the preservative with the surface of the timber piles shall be ____.",
+    "choices": [
+      "150 mm",
+      "20 mm",
+      "250 mm",
+      "10 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "question": "59. The contractor shall submit in writing a job-mix formula for the mixture supported by the laboratory test data along with samples of resources of components and viscosity-temperature  relationship to the Engineer for testing and approval at least ____.",
+    "choices": [
+      "two weeks",
+      "three weeks",
+      "one week",
+      "four weeks"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "question": "60. The concrete samples should be stored in a moist conditioned temperature within the range of ____until the time of test.",
+    "choices": [
+      "18*C to 24*C",
+      "15*C to 18*C",
+      "14*C to 24*C",
+      "18*C to 28*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "question": "61. This is used in soil stabilized road surface due to its high____ property, tha is, it absorb and retain water.",
+    "choices": [
+      "Potassium Chloride",
+      "Calcium Chloride",
+      "Magnesium Chloride",
+      "Sodium Chloride"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "question": "62. The mass % wear of soil aggregate used in cement/lime proportions should not be more than ____.",
+    "choices": [
+      "0.4",
+      "0.5",
+      "0.45",
+      "0.55"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "question": "63. The uniform rate at which the movable head of CBR machine tray is ____. ",
+    "choices": [
+      "0.10 in/min",
+      "0.05 in/min",
+      "0.08 in/min",
+      "0.09 in/min"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "question": "64. Cast in place concrete shall not be post-tensioned until at least ____ and until the compressive strength has reached the strength specified",
+    "choices": [
+      "7 days",
+      "10 days",
+      "14 days",
+      "20 days"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "question": "65. The penetration test is an indication of the ____of asphalt",
+    "choices": [
+      "Consistency",
+      "Softness",
+      "Hardness",
+      "Flash Point"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "question": "66. Specification requires one (1) Quality test for every ___of asphalt. ",
+    "choices": [
+      "20 tons",
+      "200 tons",
+      "50 tons",
+      "40 tons"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "question": "67. The ___is the most commonly used method in the design and evaluation of bituminous concrete mixes.",
+    "choices": [
+      "Job Mix Formula",
+      "Design Mix",
+      "Marshall Stability",
+      "Extraction"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "question": "68. Vibration shall operate a frequency of 8,300 to 9,600 impulses per minute under load at a maximum spacing of ___cm.",
+    "choices": [
+      "30 cm",
+      "50 cm",
+      "60 cm",
+      "40 cm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "question": "69. The specific gravity of Sodium Sulfate used  in soundness test for aggregate should be within the range of ___.",
+    "choices": [
+      "1.151 to 1.174",
+      "1.250 to 1.178",
+      "1.051 to 1.154",
+      "1.058 to 1.184"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "question": "70. The specific gravity magnesium sulfate solution used in soundness test for aggregate should be within the range of ___.",
+    "choices": [
+      "1.280 to 1.408",
+      "1.180 to 1.308",
+      "1.295 to 1.308",
+      "1.195 to 1.318"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "question": "71. Aggregate accounts for 92-95% of the weight of the bituminous mixture asphalt accounts for 5-8% of the weight of the mix.  The exact percentage to be used is determined by the ___.",
+    "choices": [
+      "Trial Mix",
+      "Design Mix",
+      "Job Mix",
+      "Job Order"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "question": "72. ___is an indication that the asphalt mix is overheated.",
+    "choices": [
+      "Blue smoke",
+      "Stiff appearance",
+      "Rising steam",
+      "Mix slumps in truck"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "question": "73. In  checking the temperature of the mix, the thermometer should be inserted into the mix at least___.",
+    "choices": [
+      "2 inches",
+      "6 inches",
+      "4 inches ",
+      "6.0 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "question": "74. ___is applied on existing bit, or cement concrete surface with bituminous materials.",
+    "choices": [
+      "Bituminous Prime Coat",
+      "Bituminous Tack Coat",
+      "Bituminous Seal Coat",
+      "Bituminous Surface Treatment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "question": "75. The solution used in the soundness test of aggregate shall be cooled to a temperature of 21+of-1*C and maintain at that temperature for at least ___.",
+    "choices": [
+      "24 hours",
+      "36 hours",
+      "48 hours",
+      "18 hours"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "question": "76. Proper compaction of the fill materials is very important, as it will ____.",
+    "choices": [
+      "Increase in the shear strength",
+      "Decrease permeability",
+      "Minimize compressibility",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "question": "77. In which DPWH item is emulsified asphalt not suitable?",
+    "choices": [
+      "Item 301",
+      "Item 302",
+      "Item 304",
+      "Item 308"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "question": "78. Unconfined compressive strength test is usually performed on ____.",
+    "choices": [
+      "Sandy soils",
+      "Silty soils",
+      "Organic soils",
+      "Clayey soils"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "question": "79. Consolidation test is usually performed on___samples.",
+    "choices": [
+      "Disturbed",
+      "Undisturbed",
+      "Consolidated",
+      "Both a & b"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "question": "80. A concrete core sample having a maximum height of less than ___ of its diameter before  capping or height less than its diameter after capping shall not be tested.",
+    "choices": [
+      "0.93",
+      "0.94",
+      "0.95",
+      "0.96"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "question": "81. The cohesion and internal friction of soil is tested by",
+    "choices": [
+      "Triaxial shear test",
+      "Direct shear test",
+      "Bearing test",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 82,
+    "question": "82. In concrete acceptance, core will be considered adequate if the average strength of the cores is equal to?",
+    "choices": [
+      "80% of specified strength &if no single core is less than 75% of specified strength",
+      "90% of specified strength & if no single core is less than 80% of specified strength",
+      "85% of the specified strength & if no single core is less than 75% of \nspecified strength.",
+      "85%of specified strength & if no single core is less than 85%of specified strength"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "question": "83. Before the cement is to be used, sampling must be done at least ___before use.",
+    "choices": [
+      "one week",
+      "14 days",
+      "two weeks",
+      "12 days"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 84,
+    "question": "84. Asphalt cement shall not be used while it is foaming nor shall be heated at ___anytime after delivery.",
+    "choices": [
+      "107*C",
+      "120*C",
+      "159*C",
+      "110*C"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "question": "85. Moisture content of aggregates in bit.mix shall not exceed ___of the time it is introduce into the mixing unit.",
+    "choices": [
+      "1.5 mass %",
+      "2.0 mass %",
+      "1 mass %",
+      "3 mass %"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "question": "86. Batching tolerance for Sand and Aggregates is ___. ",
+    "choices": [
+      "0.01",
+      "0.02",
+      "0.03",
+      "0.04"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "question": "87. Between stage of curing, concrete shall not be exposed for more than how many hours?",
+    "choices": [
+      "24 hours",
+      "3 hours",
+      "½ hours",
+      "72 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "question": "88. As Materials Engineer, what will you do with major honeycomb area that is considered as defective work?",
+    "choices": [
+      "Plaster",
+      "Payment of the concrete will be made an adjustment",
+      "Removed and replaced at the expense of the contractor",
+      "All of the Above "
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "question": "89. If the strength of control specimen does not meet the requirement and not feasible to obtain cores due to structural consideration, as Materials\nEngineer what will be your decision?",
+    "choices": [
+      "Remove and Replaced",
+      "Area will not be paid",
+      "Payment will be made at an adjusted price",
+      "None of the Above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "question": "90. After concrete has been placed, it is advisable to maintain fully wetted and in position for how many hours?",
+    "choices": [
+      "14 hours",
+      "24 hours",
+      "72 hours",
+      "15-18 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "question": "91. Rock shall be excavated to a depth ___below sub grade within the limit of the roadbed",
+    "choices": [
+      "100 mm",
+      "150 mm",
+      "200mm",
+      "250mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "question": "92. Minimum penetration of all piles shall be ___. ",
+    "choices": [
+      "3 meters",
+      "6 meters",
+      "7 meters",
+      "4.5 meters"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "question": "93. Piles shall not be driven within 7 meters of concrete less than ___ ",
+    "choices": [
+      "7 days",
+      "14 days",
+      "28 days",
+      "3 days"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 94,
+    "question": "94. Paint contains ___ of pigment and ___ vehicle.",
+    "choices": [
+      "20% & 80%",
+      "21% & 79%",
+      "79% & 21%",
+      "80% & 20%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "question": "95. Minimum thickness of bedding materials beneath the pipe is ___.",
+    "choices": [
+      "100 mm",
+      "150 mm",
+      "200 mm",
+      "250 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "96. Tolerance of gabion dimension is ____.",
+    "choices": [
+      "+/- 1%",
+      "+/- 2%",
+      "+/- 5%",
+      "+/- 4%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 97,
+    "question": "97. Minimum size of galvanized wire mesh is__.",
+    "choices": [
+      "2.0 mm",
+      "2.2 mm",
+      "2.7 mm",
+      "3.4 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "question": "98. Minimum density of gabions is ____.",
+    "choices": [
+      "1,000kg/cum.",
+      "1,200kg/cum.",
+      "1,400kg/cum.",
+      "1,500kg/cum."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 99,
+    "question": "99. Soundness loss of field gabions is ___. ",
+    "choices": [
+      "9%after 5 cycles",
+      "10%after 5 cycles",
+      "11%after 5 cycles",
+      "12%after 5 cycles"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "question": "100. The heating temperature of reflectorized thermoplastic material during application is __",
+    "choices": [
+      "130+/-7*C",
+      "150+/-7*C",
+      "200+/-7*C",
+      "211+/-7*C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 101,
+    "question": "101. Submission of sample minimum quantity of material for asphalt cement is ___.",
+    "choices": [
+      "5 kg.",
+      "10kg",
+      "20kg",
+      "100kg"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 102,
+    "question": "102. For how many years does the small Contractor given to procure necessary testing equipment?",
+    "choices": [
+      "2 years",
+      "4 years",
+      "5 years",
+      "6 years"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 103,
+    "question": "103. The depth of the weakened joints must be less than ___ and a width of ____. ",
+    "choices": [
+      "40mm & 6mm",
+      "50mm & 5mm",
+      "40mm & 5mm",
+      "50mm & 6mm"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 104,
+    "question": "104. Used of bituminous cold mix for potholes patching during rainy/wet period is acceptable",
+    "choices": [
+      "True",
+      "False",
+      "Neither",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 105,
+    "question": "105. In soil boring shall be carried to a depth of at least ___below the proposed grade line.",
+    "choices": [
+      "0.5m",
+      "1.0m",
+      "1.5m",
+      "1.8m"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "question": "106. An asphalt cement can be a good bituminous binder material for item",
+    "choices": [
+      "306",
+      "308",
+      "310",
+      "311"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 107,
+    "question": "107. What is the permitted variation from the design thickness of a layer of aggregate subbase course?",
+    "choices": [
+      "± 20 mm",
+      "± 10 mm",
+      "± 30 mm",
+      "± 15 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 108,
+    "question": "108. What is the required minimum field density for embankment materials?",
+    "choices": [
+      "0.85",
+      "0.9",
+      "0.95",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "question": "109. For small project where quantity of steel bars is 10,000kg.or less, what is the basis of acceptance of material?",
+    "choices": [
+      "No testing",
+      "P.E. Certificate",
+      "Mill Certificate",
+      "All of the Above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 110,
+    "question": "110. ___determine the best  combination of the material that will produce potentially stable & durable mixture.",
+    "choices": [
+      "Job mix  formula",
+      "Marshall formula",
+      "Design of bit.mix",
+      "Concrete Design"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "question": "111. ___is the rate of loading for concrete cylinder sample subject to compression test",
+    "choices": [
+      "20-40psi/sec ",
+      "20-50psi/sec ",
+      "15-40psi/sec ",
+      "15-50psi/sec"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "question": "112. In soil exploration, if the characteristic of rock is questionable, the minimum depth of boring into the bedrock should be ____.",
+    "choices": [
+      "1.5m",
+      "2.0m",
+      "2.5m",
+      "3.0m"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 113,
+    "question": "113. Unless otherwise specified, all materials below subgrade level in earth should be cut to a depth of:",
+    "choices": [
+      "100 mm",
+      "150 mm",
+      "200 mm",
+      "250 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "114. How many hours do aggregate stockpile or binned for draining before being batch?",
+    "choices": [
+      "1 hour",
+      "6 hours",
+      "12 hours",
+      "24 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 115,
+    "question": "115.What  is the rate of loading of concrete  beam tested for flexural stress?",
+    "choices": [
+      "125-175psi/sec.",
+      "115-150psi/sec",
+      "110-150 psi/sec",
+      "130-175 psi/sec."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 116,
+    "question": "116. What is the relative strength of mortar at 7 & 28 days of fine aggregates, when tested for the effect of organic impurities, which is higher than the \nstandards?",
+    "choices": [
+      " not less than 90%",
+      "not less than 80%",
+      "not less than 95%",
+      "not less than 98 %"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 117,
+    "question": "117.In concrete sampling paste shall be of normal consistency of ______ when the rod settles to a point below the original suface in 30 seconds.",
+    "choices": [
+      "10+/- 1 mm",
+      "11+/- 1 mm",
+      "15  +/- 1 mm",
+      "20 +/- 1 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 118,
+    "question": "118. What is the curing temperature of  a concrete sample?",
+    "choices": [
+      "10-15 *C",
+      "18-24*C",
+      "15-18*C",
+      "16-27*C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 119,
+    "question": "119.What is the wash loss of fine aggregates in the no.200 sieve? ",
+    "choices": [
+      "0.01",
+      "0.02",
+      "0.03",
+      "0.04"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "question": "120. Retarder can delay the setting time of concrete up to how many hours?",
+    "choices": [
+      " 1 hour",
+      "2 hours",
+      "4 hours",
+      " 8 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 121,
+    "question": "121.Super plasticizer can increase the strength of concrete up to how many percent ?",
+    "choices": [
+      " 40-60  %",
+      "50-60 %",
+      "50-70 %",
+      "60-70%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 122,
+    "question": "122._________ is the moisture in an air dried soil.",
+    "choices": [
+      "Moisuture Content",
+      "Natural Moisture Content",
+      "Hygroscopic Moisture Content",
+      "Hydrometer Moisture Content"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "question": "123._________is the tolerance of mix in a bituminous temperature.",
+    "choices": [
+      " +/-10 *C",
+      "+/-12 *C",
+      "+/- 15 *C",
+      "+/- 18 *C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "question": "124._________number of measurement  taken in a core sample for  thickness determination of the finish asphalt  pavement.",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 125,
+    "question": "125. In the absence of beam mold in site, cylinder mold is allowed by specification. What is the required strength?",
+    "choices": [
+      " 2500 psi",
+      "3000 psi",
+      "3500 psi ",
+      "4000 psi"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "question": "126. Prime coat shall be left undisturbed for  at least ______.",
+    "choices": [
+      " 6 hours",
+      "12 hours",
+      "24 hours",
+      "48 hours"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "question": "127. The first phase of rolling the spread bituminous mix is called breakdown rolling which is carried out by pneumatic roller, temperature requirement must be ________.",
+    "choices": [
+      "200 – 225 *F ",
+      "190-199 *F",
+      "160-180 *F ",
+      "150-185 *F"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 128,
+    "question": "128.How many gradation ranges for hot plant mix bituminous pavement are there in the blue book?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 129,
+    "question": "129. What is the plasticity index of mineral filler? ",
+    "choices": [
+      " not greater than 4",
+      "not greater than 6",
+      "not greater than 8",
+      "Zero"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "question": "130.If no core had been taken at the end of each day of operation and the project has already been completed, a core shall be taken ________",
+    "choices": [
+      " for every 75 l.m./lane",
+      "for every 150 l.m./lane",
+      "for every 100 l.m./lane",
+      "for every 1,000 l.m./lane"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "question": "131.__________ is the slump of workable concrete if vibrate",
+    "choices": [
+      "10-20 mm",
+      "10-40 mm",
+      "40-50 mm",
+      "40-75 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "question": "132.________Burnt product which is used by Gypsum and pulverized  to form Portland Cement.",
+    "choices": [
+      " Hydraulic Cement",
+      "Clinker",
+      "Fly Ash",
+      "Volcanic Ash"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "133.When group index=0  what is the grade of soil?",
+    "choices": [
+      " weak soil",
+      "poor soil",
+      "good soil",
+      "Clayey Soil"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 134,
+    "question": "134.________ is the limit were further loss of water due to evaporation which sill not result in reduction of volume.",
+    "choices": [
+      " Plastic Limit",
+      "Liquid Limit",
+      "Shrinkage Limit ",
+      "Plasticity Index"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 135,
+    "question": "135.________  a classification of soil which 35% or less the particles pass through no. 200 sieve.",
+    "choices": [
+      " Grain size soil",
+      "Granular Materials",
+      "Silty Clay Materials",
+      "Clayey Materials"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "question": "136.________ a classification of soil which  35% more of the particles pass through  200 sieve.",
+    "choices": [
+      "Course Sand Soil",
+      "Granular Materials",
+      "Silty-Clay Materials",
+      "Clayey Materials"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 137,
+    "question": "137.It evaluate the quality of soil as highway sub-grade material.",
+    "choices": [
+      "Attenberg Limit",
+      "Plasticity Index",
+      "Group Index",
+      "Liquid Limit"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 138,
+    "question": "138.When soil has plasticity index value of 10. What is the criteria of the material?",
+    "choices": [
+      " Coarse Grain",
+      "Sandy",
+      "Clayey",
+      "Silty"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 139,
+    "question": "39.It  indicates good subbase materials when G.I. Is equal to ________.",
+    "choices": [
+      "0",
+      "5",
+      "10",
+      "20"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "question": "140.It indicates very poor subbase materials when G.I.  is equal to _____.",
+    "choices": [
+      "0",
+      "5",
+      "10",
+      "20"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 141,
+    "question": "141.It  indicates the composition of soil.",
+    "choices": [
+      "Attenberg Limit",
+      "Plasticity Index",
+      "Group Index",
+      "Liquid Limit"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "question": "142.The higher  value of PI of the soil, the weaker will be the soil performance as a _________.",
+    "choices": [
+      " True",
+      "False",
+      "Depend",
+      "None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 143,
+    "question": "143._______ is the minimum percent of A-6 group classification of soil.",
+    "choices": [
+      "0",
+      "6",
+      "20",
+      "35"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "question": "144.When the value of G.I. Is negative, what will be the soil performance?",
+    "choices": [
+      " Poor Subgrade",
+      "Very good Subgrade",
+      "Good Subgrade",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 145,
+    "question": "145.The weight  of Sandy soil for Hydrometer Analysis is _______.",
+    "choices": [
+      " 10  grams",
+      "25  grams",
+      "50 grams",
+      "100 grams"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 146,
+    "question": "146.________ is a type of soil  in which  most of the soil grains are of the same size.",
+    "choices": [
+      "Poorly graded",
+      "Well graded",
+      "Cap graded",
+      "None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "question": "147.Percent passing loose for coarse aggregates when tested for clay lump is _______.",
+    "choices": [
+      " 1.0 percent",
+      "0.25 mass percent ",
+      "0.8 percent",
+      "1.0 mass percent"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "question": "148.The mass percent  passing loose for coarse aggregates when tested soft fragment is _______.",
+    "choices": [
+      "0.1",
+      "0.25",
+      "3.5",
+      "1"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 149,
+    "question": "149.If  slag is used, the density of coarse aggregate is ________. ",
+    "choices": [
+      " 30-100 kg/cu.m. .",
+      "150 kg./cu.m.",
+      "1,120 kg/cu.m",
+      "1,400 kg/cu.m."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 150,
+    "question": "150.Mass percent loose for  fine aggregates when tested in Clay lumps is ____. ",
+    "choices": [
+      "0.1",
+      "0.25",
+      "0.8",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 151,
+    "question": "151. _______ is a type of cement which shall be transferred to an elevated, air tight and weather proof bins storage.",
+    "choices": [
+      "Portland Cement",
+      "Pozzolan Cement",
+      "Bulk Cement",
+      "None of the above "
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 152,
+    "question": "152.Scales for weighing aggregates and cement shall be accurate within _____.",
+    "choices": [
+      "0.001",
+      "0.0025",
+      "0.005",
+      "0.019"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 153,
+    "question": "153._______ determines the resistance of the emulsion to break with mixed with mineral aggregates.",
+    "choices": [
+      "Viscosity Test",
+      "Distillation Test",
+      "Spot Test",
+      "Cement Mixing"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 154,
+    "question": "154. Bowl shaped holes of various sizes in the pavement surface. ",
+    "choices": [
+      "Potholes",
+      "Ravelling",
+      "Scalling",
+      "Shoving"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 155,
+    "question": "155. The wearing away of the pavement surface caused by the dislodging of aggregate particles ",
+    "choices": [
+      "Potholes",
+      "Ravelling",
+      "Scalling",
+      "Shoving"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 156,
+    "question": "156. A form of plastic movement typified by ripples (surface waves) across the pavement surface.",
+    "choices": [
+      "Corrugation",
+      "Ravelling",
+      "Scalling",
+      "Shoving"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "question": "157. How many days do the specimen for CBR soaked? ",
+    "choices": [
+      "1 day",
+      "2 days",
+      "3 days",
+      "4 days"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 158,
+    "question": "158.When mixed at the site or in a central mixing plant, the mixing time shall not be less than _____________ nor more than _____________unless mix performance test prove adequate of the concrete in a shorter time period",
+    "choices": [
+      "50 second and 90 seconds",
+      "30 seconds and 70 seconds",
+      "20 seconds and 60 seconds",
+      "40 seconds and 100 seconds"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 159,
+    "question": "159.The batches shall be so charged into the drum that a portion of the mixing water shall enter in advance of the cement and aggregate. The flow of water shall be uniform and all water should be in the drum by the end of the _____________ of the mixing period.",
+    "choices": [
+      "20 seconds ",
+      "15 seconds ",
+      "10 seconds ",
+      "5 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "question": "160. The time elapsed from the time water is added to the mix until the concrete is deposited at the site shall not exceed ____________when concrete is hauled in the truck.",
+    "choices": [
+      "60 minutes",
+      "70 minutes",
+      "90 minutes",
+      "45 minutes"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 161,
+    "question": "161.When concrete is delivered in truck  mixers, additional water may be added to the batch and additional mixing performed to increase the slump to meet the specified requirement if permitted by the Engineer, provided all these operation are performed  within __________  after the initial mixing operation and the water and cement ratio is not exceeded.",
+    "choices": [
+      "30 minutes",
+      "45 minutes",
+      "90 minutes",
+      "60 minutes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "question": "162.Concrete not placed within  ___________ from the time the ingredients were charge  into the mixing drum should not be use.",
+    "choices": [
+      " 90 minutes",
+      "60 minutes",
+      "60 minutes",
+      "30 minutes"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "question": "163.The completed pavement  shall be accepted on a lot basis. A lot shall be considered as ______________double lane.",
+    "choices": [
+      " 300 linear meter ",
+      "1000 linear meter ",
+      "500 linear meter ",
+      "600 linear meter"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 164,
+    "question": "164.Each lot shall be divided into _____ equal segment and one core will be obtained from each segment in accordance with AASHTO T24.",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 165,
+    "question": "165.  Aggregate account 92-95% of the weight of the bituminous mix while asphalts for 5-8% of the weight of the mix.  The exact percentage to be used is determined by the _________.",
+    "choices": [
+      " Design Mix",
+      "Job Mix",
+      "Extraction Test ",
+      "Trial Mix"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 166,
+    "question": "166. _____________ is an indication that the asphalt is over heated.",
+    "choices": [
+      " Blue Smoke",
+      "Job Mix",
+      "Extraction Test ",
+      "Black Color"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "question": "167. _________________________ is the most common used method in the\ndesign and evaluation of bituminous concrete mixes. ",
+    "choices": [
+      " Extraction Test",
+      "Marshall Stability Test",
+      "Bulk Specific Gravity",
+      "Job Mix"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "question": "168. _________________ determines the asphalt content in the bituminous mixes.",
+    "choices": [
+      " Extraction Test",
+      "Marshall Stability Test",
+      "Bulk Specific Gravity",
+      "Job Mix"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 169,
+    "question": "169. Cast  in place concrete shall not be post-tensioned until at least ________.",
+    "choices": [
+      " 7 days",
+      "10 days",
+      "14 days",
+      "28 days"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 170,
+    "question": "170. This characteristic generally used for calculation of the volume occupied by the aggregate in various mixture containing aggregates including Portland Cement Concrete, Bituminous Concrete and other mixtures that are proportioned or analyzed on an absolute volume basis.",
+    "choices": [
+      " Apparent Specific Gravity",
+      "Marshall Stability Test",
+      "Bulk Specific Gravity",
+      "Abrasion Test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 171,
+    "question": "171. _____________________pertains to the relative density of the soil material making up the constituents particle not including the pore space within the particles that is accessible to water.",
+    "choices": [
+      " Apparent Specific Gravity",
+      "Marshall Stability Test",
+      "Bulk Specific Gravity",
+      "Abrasion Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 172,
+    "question": "172.Weight of sandy soil needed for Hydrometer test is ________.",
+    "choices": [
+      " 100 grams",
+      "150 grams",
+      "200 grams",
+      "250 grams"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 173,
+    "question": "173. Weight of silty soil needed for Hydrometer test is __________ ",
+    "choices": [
+      "100 grams",
+      "30 grams",
+      "50 grams",
+      "20 grams"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "question": "174. These are widely used to control the characteristics of soil which are to be incorporated in roadway.",
+    "choices": [
+      "Shrinkage Limits",
+      "Cement and Soil Limits",
+      "Liquid and Plastic Limits",
+      "All of the Above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 175,
+    "question": "175. This is defined as the highest  moisture content of which the mass attains its minimum volume but continues to lose weight /mass.",
+    "choices": [
+      "Shrinkage Limits",
+      "Cement and Soil Limits",
+      "Liquid and Plastic Limits",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "question": "176. _____________________ is an apparatus used in determination of specific\ngravity of Hydraulic Cement. ",
+    "choices": [
+      "Le Chattelier Flask",
+      "Autoclave Machine",
+      "Graduated Cylinder",
+      "Cleveland Open Club"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 177,
+    "question": "177._____________________ is an equipment used in determination of\nsoundness of  Portland Cement. ",
+    "choices": [
+      "Le Chattelier Flask",
+      "Autoclave Machine",
+      "Graduated Cylinder",
+      "Cleveland Open Club"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "question": "178. Asphalt shall be homogeneous, free from water, and shall not foam heated to _________________.",
+    "choices": [
+      "110*C",
+      "107*C",
+      "175*C (347*F) ",
+      "115*C"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 179,
+    "question": "179. __________________, Test of Asphalt  indicate the rate at which the asphalt emulsion will break when mix with aggregate. ",
+    "choices": [
+      "Aggregates Mixing",
+      "Cement Mixing",
+      "Job Mixing",
+      "Blown Asphalt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "question": "180. The lost in weight of rock use in gabions when tested to sodium  sulfate, soundness loss   shall not exceeds ______.",
+    "choices": [
+      "0.05",
+      "0.07",
+      "0.09",
+      "0.1"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 181,
+    "question": "181. Gabions dimensions are subject to a tolerance limit of _________. ",
+    "choices": [
+      "+/- 3%",
+      "+/- 5%",
+      "+/- 6%",
+      "+/- 1%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 182,
+    "question": "182. The pour point of concrete joint sealer shall be at least ________ lower than the safe heating temperature, which is the maximum temperature to which the material may be heated without exceeding the permitted flow.",
+    "choices": [
+      "11*C (20*F)",
+      "10*C",
+      "5*C",
+      "15*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 183,
+    "question": "183. The penetration of concrete joint sealer, Hot Poured Elastic Type shall not exceed _______.",
+    "choices": [
+      "90",
+      "95",
+      "85",
+      "80"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 184,
+    "question": "184. The CBR is generally selected at  _______________ penetration.",
+    "choices": [
+      "0.1",
+      "0.0375",
+      "0.05",
+      "0.2"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 185,
+    "question": "185. The penetration piston of CBR machine should have a uniform penetration at a rate of _________________.",
+    "choices": [
+      "1.10mm/min. ",
+      "1.20mm/min. ",
+      "1.30mm/min. ",
+      "1.40mm/min."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 186,
+    "question": "186. During soaking maintain the water level in the mold and the soaking tank is approximately _____________ above the tope of the specimen.",
+    "choices": [
+      "2”",
+      "1”",
+      "3”",
+      "4”"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "question": "187. CBR, Soak specimen for ____________?",
+    "choices": [
+      "24 hours ",
+      "96 hours ",
+      "72 hours",
+      "48 hours"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 188,
+    "question": "188. The diameter  of the penetration piston is ____________.",
+    "choices": [
+      "49.6+/- 0.23 mm",
+      "50.15+/- 0.23 mm",
+      "49.63+/-0.23 mm",
+      "49.65+/-0.23 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 189,
+    "question": "189. The temperature of the asphalt cement delivered to the mixer shall be required to achieve a kinetic viscosity in the range of.",
+    "choices": [
+      "180 to 300 cu.m/s",
+      "200 to 300 cu.m/s",
+      "120 to 300 cu.m/s",
+      "150 to 300 cu.m/s"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 190,
+    "question": "190. ___________ is the viscosity used to grade asphalt cement.",
+    "choices": [
+      "60*C",
+      "45*C",
+      "75*C",
+      "80*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 191,
+    "question": "191. The coarse aggregate used in asphalt  mix is",
+    "choices": [
+      "Retained in #8 Sieve",
+      "Retained in #40 Sieve",
+      "Retained in #10 Sieve",
+      "Retained in #200 Sieve"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 192,
+    "question": "192. The  application temperature of emulsified asphalt range from _________.",
+    "choices": [
+      "10 - 71*C",
+      "20 - 75*C",
+      "15 - 73*C",
+      "25 - 72*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 193,
+    "question": "193. When the tar is used for seal coats, It shall be heated to free flowing not to exceed ___________.",
+    "choices": [
+      "107*C",
+      "110+/-5*C ",
+      "115*C",
+      "90*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "question": "194. ___________________is used to determine the settlement characteristic of\nSoil Consolidation. ",
+    "choices": [
+      "Group Index",
+      "Consolidation Test",
+      "Marshall Stability",
+      "Unconfined & Tri-Axial Compression Test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 195,
+    "question": "195. _______________ is used to determine the settlement characteristic of soil.",
+    "choices": [
+      "Group Index",
+      "Consolidation Test",
+      "Marshall Stability",
+      "Unconfined & Tri-Axial Compression Test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 196,
+    "question": "196. The weight of disturbed samples from hard auger or split spoon shall be at least ___________.",
+    "choices": [
+      "2 kg. ",
+      "1kg. ",
+      "3kg. ",
+      "5kg."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 197,
+    "question": "197.The undisturbed samples from Shellby Tube shall be at least_______. ",
+    "choices": [
+      "10”long",
+      "18”long",
+      "20”long",
+      "16” long"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 198,
+    "question": "198. ______________ determines the pile bearing capacity by loading one or more piles and measuring the settlement  under load.",
+    "choices": [
+      "Vane shear test",
+      "Plate bearing test",
+      "Pile load test",
+      "Shear Bearinfg Test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 199,
+    "question": "199.  __________ determines  the in site  shear strength of  soft to medium clay.",
+    "choices": [
+      "Vane shear test",
+      "Plate bearing test",
+      "Pile load test",
+      "Shear Bearinfg Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 200,
+    "question": "200. ___________ determine the soil bearing capacity by loading a steel plate usually 30 inches in diameter.",
+    "choices": [
+      "Vane shear test",
+      "Plate bearing test",
+      "Pile load test",
+      "Shear Bearinfg Test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 201,
+    "question": "201. ________________ is a laboratory which measures, examines, calibrate or \notherwise determine the characteristics or performance materials or products.",
+    "choices": [
+      "Testing Laboratory",
+      "Test Method",
+      "Test Result",
+      "Materials Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 202,
+    "question": "202.  Standard technical procedure to determine one or more specified characteristics of material product is called ______________.",
+    "choices": [
+      "Testing Laboratory",
+      "Test Method",
+      "Test Result",
+      "Materials Test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 203,
+    "question": "203. A document which prevents the test result and other information relevant to test is called _____________.",
+    "choices": [
+      "Testing Laboratory",
+      "Test Method",
+      "Test Result",
+      "Materials Test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 204,
+    "question": "204. is a document signed by the Director of BRS issued to Testing laboratory authorizing them to perform the required  test in behalf of DPWH.",
+    "choices": [
+      "Certificate of Authorization",
+      "Certificate of Completion",
+      "Certificate of Accreditation",
+      "Materials Test Certificate"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 205,
+    "question": "205.  The test have been developed to measure the loss of cohesion as a result of water action on the compacted bituminous mixture.",
+    "choices": [
+      "Permeability",
+      "Loss on Heating",
+      "Solubility Test",
+      "Film Stripping & Immersion - Compression Test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 206,
+    "question": "206. _______________ means  porosity or perviousness of the mixture, a dense grade mix prevent water from entering the base through the surface.",
+    "choices": [
+      "Permeability",
+      "Loss on Heating",
+      "Solubility Test",
+      "Viscosity Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 207,
+    "question": "207. __________________ is used in classifying liquid asphalt into grades.  It is useful as a measure to control of consistency, particularly when run at the temperature of intended application.",
+    "choices": [
+      "Permeability",
+      "Loss on Heating",
+      "Solubility Test",
+      "Viscosity Test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "question": "208.  ______________ determines the total bitumen content of a asphaltic materials, which is the actual cementing constituent of the asphalt.",
+    "choices": [
+      "Permeability",
+      "Loss on Heating",
+      "Solubility Test",
+      "Viscosity Test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 209,
+    "question": "209. _______________is an accelerated test to show the loss of volatiles when the sample is heated at 163*C for the five hours and the loss due to volatilization is determined.",
+    "choices": [
+      "Permeability",
+      "Loss on Heating",
+      "Solubility Test",
+      "Viscosity Test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 210,
+    "question": "210.   _________________ is the test that classifies the different asphalt and\ndiffer into grade.",
+    "choices": [
+      "Shearing Strength of Soil",
+      "Penetration Test of Asphalt ",
+      "Quality Test",
+      "Consistency Test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "question": "211.  For liquid asphaltic materials, this test is run on the residue after distillation.",
+    "choices": [
+      "Shearing Strength of Soil",
+      "Penetration Test of Asphalt ",
+      "Quality Test",
+      "Consistency Test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 212,
+    "question": "212. This is one of the most important engineering properties.  It is defined as its ability to resist sliding along internal surface within the mass .",
+    "choices": [
+      "Shearing Strength of Soil",
+      "Penetration Test of Asphalt ",
+      "Quality Test",
+      "Consistency Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 213,
+    "question": "213. This is an arbitrary measurement of consistency and is the basis of classification of all solid and semi-solid asphalt.",
+    "choices": [
+      "Shearing Strength of Soil",
+      "Penetration Test of Asphalt ",
+      "Quality Test",
+      "Consistency Test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "question": "214.  Plant –mixed bituminous mixtures should be sampled in accordance to the Standard Method of Sampling Bituminous Mixture.  A sample not less than ______ is taken and place in sample bag that would insure against contamination.  This is taken every 75 cum. or 130 tons of mix.",
+    "choices": [
+      "5kg.",
+      "20kg.",
+      "15kg.",
+      "10kg."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 215,
+    "question": "215. The bearing blocks of the compression machine should be at  least ______ greater than the diameter of the specimen.",
+    "choices": [
+      "0.02",
+      "0.03",
+      "0.01",
+      "0.05"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 216,
+    "question": "216.  The bottom bearing block shall be at least ___________thick when new bottom bearing block shall be at least _______ thick after any resurfacing  operations.",
+    "choices": [
+      "0.8”, 1.0”",
+      "1.0”, 0.8”",
+      "0.9”, 1.0”",
+      "1.0”, 0.9”"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 217,
+    "question": "217.  The curing temperature of a specimen before testing  is ___________",
+    "choices": [
+      "20-29*C",
+      "18-28*C",
+      "18-27*C",
+      "16-24*C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 218,
+    "question": "218.  The apparatus used to determine the flash point of asphaltic material is called _________________.",
+    "choices": [
+      "Le Chattelier Flask",
+      "Autoclave Machine",
+      "Graduated Cylinder",
+      "Cleveland Open Club"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 219,
+    "question": "219.  The asphalt  samples  for ductility and penetration test should be subjected to water bath at a temperature of  25* C for __________.",
+    "choices": [
+      "2 1/2 hours",
+      "1 1/2 hours",
+      "1 hour",
+      "2 hours"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 220,
+    "question": "220. The concrete shall not be left exposed for more than ___________.",
+    "choices": [
+      "1/2 hours",
+      "1 1/2 hours",
+      "1 hour",
+      "2 hours"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 221,
+    "question": "221. The rate of application of bituminous prime coat is ______. ",
+    "choices": [
+      " 1-2 L/sq. m.",
+      "0.2-0.7 L/sqm.",
+      "0.2-1.5 L/sqm.",
+      "0.5-2.0 L/sqm."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "question": "222. In asphalting work, there are _____ phase  of  rolling.",
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 223,
+    "question": "223.  The _______ test determines the asphalt content in the bituminous mix.",
+    "choices": [
+      "Grading",
+      "Bulk Specific Gravity",
+      "Extraction",
+      "Absorption"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 224,
+    "question": "223. In a bituminous mix, there are 3 kinds of aggregate. What kind of passes the no. 200 sieve?",
+    "choices": [
+      "Coarse",
+      "Fine",
+      "Mineral Filler",
+      "Admixture"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 225,
+    "question": "225. Liquid asphalt is also called ________. ",
+    "choices": [
+      " Cutback Asphalt",
+      "Emulsion",
+      "Blown Asphalt",
+      "Asphalt Cement"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 226,
+    "question": "226.The apparatus/equipment  used in the liquid limit and plastic limit test is called _______.",
+    "choices": [
+      " Sieves and chisel",
+      "Attenberg Dev.",
+      "Mortar and  glass pestle ",
+      "Spatula"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 227,
+    "question": "227._____is  a method of laboratory sampling. ",
+    "choices": [
+      " Mixing",
+      "Using mechanical splitting/quartering",
+      "Proportioning",
+      "Testing"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 228,
+    "question": "228.In laboratory compaction test/moisture density relation test, What is the specification of  rammer?",
+    "choices": [
+      " 5.5 lb.(2.5kg. ) in weight with 12 in. drop",
+      "8.0 lb (3.6 kg.) in weight with 16 in. drop",
+      "10 lb (4.5kg.) in weight with 20 in. Drop",
+      "10 lb (4.5kg.) in weight with 18 in. Drop"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 229,
+    "question": "229.What is the specification of mass percent passing in sieve 0.075 mm. No. 200 sieve grading “A” for aggregate base course.",
+    "choices": [
+      " 1-12",
+      "0-12",
+      "0-6",
+      "01/06/2026"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 230,
+    "question": "230.The number of specimen in testing concrete hollow blocks is ______.",
+    "choices": [
+      " 6 pcs./20,000 units (3 for absorption test and 3 for strength test",
+      "4 pcs./20,000 units )",
+      "8 pcs./20,000 units",
+      "6 pcs./10,000 units (3 for absorption test and 3 for strength test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 231,
+    "question": "231.Is it really necessary to cure concrete specimen?",
+    "choices": [
+      " Yes",
+      "No",
+      "Depends",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "question": "232.The kind of test that determines the consistency of  concrete is  ______.",
+    "choices": [
+      " Slump Test",
+      "Specific Gravity",
+      "Abrasion Test",
+      "Sampling"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 233,
+    "question": "233.What is the dimension of concrete cylindrical sample?",
+    "choices": [
+      " 6” dia  and  12” high",
+      "6” di  and 8” high",
+      "6” di  and  10” high",
+      "4” di And 12” high"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "question": "234.  In the absence of concrete beam  mold  at the project site, are concrete cylindrical  molds allowed by the specification to be used in sampler  for Item 311-PCCP?",
+    "choices": [
+      " Yes",
+      "No",
+      "Depends",
+      "None of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 235,
+    "question": "235.  The minimum percent compaction for  embankment is ______.",
+    "choices": [
+      "0.92",
+      "0.97",
+      "0.95",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 236,
+    "question": "236. The minimum percent compaction  for base  of the road is _______.",
+    "choices": [
+      "1",
+      "1.05",
+      "1.1",
+      "0.97"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 237,
+    "question": "237. The CBR value of aggregate base course is not less than _____.",
+    "choices": [
+      "0.8",
+      "0.85",
+      "0.9",
+      "0.95"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 238,
+    "question": "238. The CBR value of aggregate subbase course is not less than ____.",
+    "choices": [
+      "0.25",
+      "0.3",
+      "0.35",
+      "0.28"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 239,
+    "question": "239. The minimum compressive strength for Class A concrete is ______.",
+    "choices": [
+      " 3,000 psi (20.7 MN/sqm.)",
+      "2,400 psi (16.7 MN/sqm.)",
+      "5,000 psi (37.7 MN/sqm.)",
+      "3,500 psi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 240,
+    "question": "240. What is the significance of determination of the tensile properties of \nreinforcing steel bars?",
+    "choices": [
+      " This method is intended to determine yield and tensile strength of the bar as well as its elongation and is used to classify the bars into grade",
+      "This method is intended to evaluate the ductile properties of the\nreinforcing steel bars",
+      "None of the above",
+      "Either A or B"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 241,
+    "question": "241. A tie bar should be ______.",
+    "choices": [
+      " Deformed bar",
+      "Round bar",
+      "Flat bar",
+      "Square Bar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 242,
+    "question": "242.  A dowel bar should be  _____. ",
+    "choices": [
+      " Deformed bar",
+      "Round bar",
+      "Flat bar",
+      "Square Bar"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 243,
+    "question": "243.  The mortar for masonry shall consist of _______.",
+    "choices": [
+      " One part of Portland Cement and 2 parts of sand",
+      "One part of Cement and 3 parts of sand",
+      "One part of Portland Cement and 4 part of sand",
+      "One Part of Portland Cement and 1 Part of Sand"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 244,
+    "question": "244. The apparatus used to measure the thickness or height of compacted bituminous paving mixture.",
+    "choices": [
+      " Ruler",
+      "Vernier Califer",
+      "Steel Tape",
+      "Meter Stick"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 245,
+    "question": "245.It is used in calculating the unit weight of the  mixture and the degree of compaction of the asphalt pavement.",
+    "choices": [
+      " Bulk Specific Gravity of compacted bituminous mixtures using saturated surface dry specimen.",
+      "Dry unit weight of compacted bituminous  mixtures",
+      "Marshall Stability",
+      "Penetration Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 246,
+    "question": "246.The test which covers the quantitative determination of bitumen in hot mixed paving mixtures and pavement samples for specification service evaluation, control and research.",
+    "choices": [
+      " Extraction",
+      "Spot Test",
+      "Flash Point",
+      "Penetration Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "question": "247.The solvent used in extraction of bitumen is ______.",
+    "choices": [
+      " Diesel Oil",
+      "Gasoline",
+      "Water",
+      "Kerosene"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 248,
+    "question": "248.The percent of bitumen content is computed based on ______.",
+    "choices": [
+      " Mass of raw sample",
+      "Mass of dry aggregates",
+      "Mass of asphalt",
+      "Mass of Wet Aggregates"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 249,
+    "question": "249.The method used to determine the grading of aggregate extracted from bituminous mixture is  _______.",
+    "choices": [
+      " Mechanical analysis of extracted aggregates ",
+      "Stability Test",
+      "Viscosity Test",
+      "Grading Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 250,
+    "question": "250.The drying temperature of sample is _______.",
+    "choices": [
+      " 110 +/- 5* C",
+      "100 * C",
+      "100 +/-5 *C",
+      "107*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 251,
+    "question": "251._______ is a solid asphalt which is a basic  constituent of all other asphalt called as hot asphalt or penetration grade asphalt.",
+    "choices": [
+      " Asphalt Cement",
+      "Cutback Asphalt",
+      "Emulsified Asphalt",
+      "Rapid Curing Cutback"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 252,
+    "question": "252._______ is a kind of liquid asphalt which is a mixture of asphalt cement and kerosene.",
+    "choices": [
+      " Medium Curing Cutback",
+      "Asphalt Cement",
+      "Rapid Curing Cutback",
+      "Emulsified Asphalt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "question": "253._______ is a kind of liquid asphalt which is a mixture of asphalt cement and gasoline.",
+    "choices": [
+      " Rapid Curing Cutback",
+      "Blown Asphalt",
+      "Joint Filler",
+      "Emulsified Asphalt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "question": "254.  Asphalt is defined as ______.",
+    "choices": [
+      " A petroleum product",
+      "A dark brown to black cementitous materials whose consistency ranges from solid to semi-solid  and whose main constituent is called bitumen is either  found in nature or as a residue in petroleum refining.",
+      "None of the above",
+      "All of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 255,
+    "question": "255. It is a kind of liquid asphalt which is a mixture of asphalt cement and water with emulsified with pungent  odor.",
+    "choices": [
+      " Emulsified Asphalt",
+      "Asphalt Cement",
+      "Rapid  Curing Asphalt",
+      "Cutback Asphalt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "question": "256. Joint Filler in concrete pavement is a _______.",
+    "choices": [
+      "Blown Asphalt",
+      "Hot Asphalt",
+      "Liquid Asphalt",
+      "Cutback Asphalt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 257,
+    "question": "257.A device used  to measure the relative hardness of asphalt is ____.",
+    "choices": [
+      " Penetrometer",
+      "Spectometer",
+      "Vicat Apparatus",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 258,
+    "question": "258.A property of asphalt cement to stretch without breaking is called ____.",
+    "choices": [
+      " Ductility",
+      "Durability",
+      "Tencile",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 259,
+    "question": "259.An apparatus used to determine the specific gravity of asphalt is called ______.",
+    "choices": [
+      " Metal Pycnometer ",
+      "Glass Pycnometer ",
+      "Any bottle",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 260,
+    "question": "260.Consistency test for asphalt is called _______.",
+    "choices": [
+      " Viscosity",
+      "Slump Test",
+      "Washing",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 261,
+    "question": "261. A process of volatilization test which measures the relative proportion of asphalt  to oil.",
+    "choices": [
+      " Distillation",
+      "Extraction",
+      "Float Test",
+      "Washing"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "question": "262._____ is a period wherein the asphalt begins to melt.",
+    "choices": [
+      " Softening Point",
+      "Fire Point",
+      "Boiling Point",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 263,
+    "question": "263.The sampling requirement of asphalt is ______.",
+    "choices": [
+      "1 sample for every 100 drums",
+      "1 sample for every 200 drums or 40 metric tons",
+      "1 sample for every shipment",
+      "None of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "question": "264.The component of bituminous mixes which range from 92 to 96 % is called ______.",
+    "choices": [
+      " Bituminous Blended Aggregates",
+      "Concrete Aggregates",
+      "Sand",
+      "Mineral Filler"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 265,
+    "question": "265.______ is a property of bituminous mixes in pavement to resist deformation or displacement due to impose load or repeated loading.",
+    "choices": [
+      " Stability",
+      "Flexibility",
+      "Ductility",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "question": "266._______ is a property of bituminous mixes in pavement to resist disintegration or deterioration due to the action of water, traffic and changing climate.",
+    "choices": [
+      " Durability ",
+      "Flexibility ",
+      "Ductility",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "question": "267.______ is a property of bituminous mixes in pavement adjust itself to settlement.",
+    "choices": [
+      " Flexibility",
+      "Rigidity",
+      "Hardness",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "question": "268.These are the factor affecting the workability of bituminous mixes",
+    "choices": [
+      " Gradation of aggregate quality of asphalt and temperature of mix.",
+      "Surface texture and temperature mix.",
+      "Quantity of aggregate and asphalt content.",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 269,
+    "question": "269.The percent index retention is computed in the formula ______",
+    "choices": [
+      "Wet Stability /Dry Stability x 100.",
+      "Dry Stability/Wet Stability x 100.",
+      "Wet Stability-Dry Stability x 100.",
+      "Dry Stability-Wet Stability x 100"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "question": "270.The sampling requirement of bituminous mixes is _____.",
+    "choices": [
+      " 1 sample for every 75 cum.",
+      "1 sample for every 150 cum.",
+      "1 sample per delivery per day.",
+      "1 sample for every 35 cu.m."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 271,
+    "question": "271.The application of liquid asphaltic material on a prepared untreated base is _________.",
+    "choices": [
+      " Prime Coating",
+      "Seal Coating",
+      "Tack Coating",
+      "Asphalting"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "question": "272.The application of liquid asphaltic material to an existing concrete surface is ________.",
+    "choices": [
+      " Tack Coating ",
+      "Seal Coating",
+      "Prime Coating",
+      "Asphalting"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 273,
+    "question": "273.The application of asphaltic material and aggregate to an existing surface for the purpose of sealing it against the infiltration of water surface moisture\nis called _______.",
+    "choices": [
+      " Seal Coating ",
+      "Tack Coating ",
+      "Prime Coating",
+      "Asphalting"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "question": "274. The rate of application of prime coating using cutback asphalt is  _______.",
+    "choices": [
+      " 1-2 liters/sqm.",
+      "0.5-1.0 liter/sqm.",
+      "2.0-3.0 liters/sq.m.",
+      "1-3 liters/sqm."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "question": "275. The  rate of application of tack coating using liquid or emulsified asphalt is _______.",
+    "choices": [
+      " 0.2-0.7 li./sqm.",
+      "0.1-0.5 li./sqm.",
+      "2.0 li/sqm.",
+      "2.0-3.0 liters/sq.m."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "question": "276.The rate of application of seal coat using asphalt cement is  ______.",
+    "choices": [
+      " 0.9-1.8 li./sqm.",
+      "10-11 li.sqm.",
+      "8.0-9.0 li./sqm.",
+      "1.5-3.0 li./sq.m."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 277,
+    "question": "277. When consolidating concrete during pouring operations, vibrator should not be operated in any one location longer than:",
+    "choices": [
+      "10 seconds",
+      "15 seconds",
+      "20 seconds",
+      "30 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 278,
+    "question": "278. The primary quality control mechanism for the production of asphalt mixes with high degree of uniformity that will satisfy job requirement is ________.",
+    "choices": [
+      "Job mix formula",
+      "Quality control formula",
+      "Assurance",
+      "Quality Control Program"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 279,
+    "question": "279.The percent asphalt content in hot laid bituminous mixture range from ________.",
+    "choices": [
+      "5.0-8.0%",
+      "4.0-6.0 % ",
+      "5.0-10.0 % ",
+      "5.0-9.0 %"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "question": "280. The placing of temperature for bituminous mixture measured in the truck prior to dumping is ________.",
+    "choices": [
+      "at least 107*C ",
+      "at least 120*C ",
+      "at least 150*C",
+      "at least 170*C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 281,
+    "question": "281.The second phase of rolling the spread bituminous mixture is called breakdown rolling which is the one responsible to attain the maximum density. The rolling is carried out by the use of ________.",
+    "choices": [
+      "pneumatic roller",
+      "steel wheeled roller",
+      "Sheep foot roller",
+      "Vibratory Roller"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "question": "282. The significance of the final rolling is to remove the roller marks to previous rolling in order to have a good finish pavement with a temperature of 160*C.",
+    "choices": [
+      "True",
+      " False",
+      "Maybe",
+      "Depends"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 283,
+    "question": "283. The proper way of rolling should begin at ________ .",
+    "choices": [
+      "The sides and proceeds longitudinally towards the road center  each \noverlapping on half the roller width, gradually progressing the crown of road.",
+      "The center and proceeding longitudinally towards the side of the road",
+      "Any part of the road provided  each strip overlapping on half the roller\nwidth.",
+      "None of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "question": "284.What is the minimum degree of compaction of asphalt pavement?",
+    "choices": [
+      "not less than 92% of the density of the laboratory compacted specimen",
+      "not less than 100% of the density of the laboratory compacted specimen",
+      "not less than 85% of the density of the laboratory compacted specimen",
+      "not less than 75% of the density of the laboratory compacted specimen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 285,
+    "question": "285. What is the color of asphalt when it is overcook?",
+    "choices": [
+      "yellowish brown",
+      "black",
+      "gray",
+      "Red"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 286,
+    "question": "286.________ determines the thickness and density of compacted pavement.",
+    "choices": [
+      "Core Test",
+      "X-ray",
+      "FDT",
+      "Using Caliper"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 287,
+    "question": "287. The cored sample of asphalt pavement is measured at _______.",
+    "choices": [
+      "approximately quarter points",
+      "three points",
+      "two points",
+      "9 points"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "question": "288.Too much content in the bituminous mixes causes ________.",
+    "choices": [
+      "bleeding",
+      "Potholes",
+      "Cracks",
+      "Rutting"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "question": "289.The wearing away of the pavement surface caused by the disclodging of aggregate particle is called ___________.",
+    "choices": [
+      "raveling",
+      "Alligator crack ",
+      "Rutting",
+      "Scalling"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 290,
+    "question": "290.Interconnected cracks forming a series of small blocks resembling alligator’s skin or chicken wire is called _________.",
+    "choices": [
+      "alligator cracking",
+      "reflection cracking",
+      "rutting",
+      "Raveling"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 291,
+    "question": "291. In Item 200 – Aggregate Subbase Course, the fraction passing the 0.425 mm (No. 40) sieve should have a liquid limit not greater than:",
+    "choices": [
+      "0.25",
+      "0.35",
+      "0.4",
+      "0.5"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 292,
+    "question": "292. If the fine aggregates are subjected to five cycles of sodium sulfate soudness test, the weighted loss shall not exceed  _________.",
+    "choices": [
+      "10 mass percent",
+      "5 mass percent",
+      "3 mass percent",
+      "12 mass percent"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 293,
+    "question": "293. Specimen of coarse aggregates are subjected to five cycles of sodium sulfate soundness test, the weighted loss shall not exceed _______.",
+    "choices": [
+      "12 mass percent",
+      "15 mass percent",
+      "10 mass percent",
+      "14 mass percent"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 294,
+    "question": "294. The mass percent of wear of coarse aggregates for Item 311 when tested by AASHTO 96 is not greater than __________.",
+    "choices": [
+      "0.4",
+      "0.45",
+      "0.5",
+      "0.3"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 295,
+    "question": "295. The design of concrete mix specified by the blue book is based on _______.",
+    "choices": [
+      "Absolute Volume Method ",
+      "Area Method",
+      "American Method",
+      "Average Method"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 296,
+    "question": "296.The minimum flexural strength requirement of beam sample when tested by the third point of loading method is __________.",
+    "choices": [
+      "3.5 Mpa",
+      "3.8 Mpa",
+      "4.0 Mpa",
+      "4.5 Mpa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 297,
+    "question": "297. The minimum flexural strength requirement of beam sample when tested by midpoint method is ________.",
+    "choices": [
+      "4.5 Mpa ",
+      "3.5 Mpa ",
+      "5.0 Mpa",
+      "5.5 Mpa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "question": "298. ________ are additives used in mixing concrete.",
+    "choices": [
+      "Sodium chloride",
+      "Admixture",
+      "Curing admix",
+      "Water"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 299,
+    "question": "299.The standard sand used in testing the mortar strength of Portland Cement is called ________.",
+    "choices": [
+      "Ottawa Sand",
+      "Beach Sand",
+      "River Sand",
+      "3/4 Gravel"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 300,
+    "question": "300.The apparatus used in determining the fineness of Portland Cement air permeability is _________.",
+    "choices": [
+      "Blaine Air Permeability Apparatus ",
+      "Sieve No. 200",
+      "Gilmore",
+      "Wash Test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 301,
+    "question": "301. The main problem associated with wrong practice of conveying concrete is called:",
+    "choices": [
+      "Honeycomb",
+      "Laitance",
+      "Segregation",
+      "Cracking"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 302,
+    "question": "302. The specifications call for a 1:2:4 concrete mix. In a one bagger mixer, which of the following amount of water is most likely required for the mix?",
+    "choices": [
+      "20 liters",
+      "5 liters",
+      "10 liters",
+      "35 liters"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 303,
+    "question": "303. Quality control testing in the DPWH project is the responsibility of the:",
+    "choices": [
+      "DPWH",
+      "Contractor",
+      "DPWH and Contractor",
+      "Construction supervision consultant"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 304,
+    "question": "304. In performing a grading test on coarse aggregates from Item 311 – PCCP, the mass percent passing of the materials for 3” and 2 ½ sieves is 100% What is the maximum size of the aggregates?",
+    "choices": [
+      "3 inches",
+      "2 ½ inches",
+      "Either a or b",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 305,
+    "question": "305. Given: Asphalt content of bituminous mix =  5.5 % Weight of specimen in air =  1200 grams\nWeight of specimen in water=  700 grams\nWeight of specimen in SSD=  1205 grams\nCalculate the bulk specific gravity of the asphalt specimen.",
+    "choices": [
+      "1.714",
+      "1.721",
+      "1.576",
+      "2.376"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 306,
+    "question": "306. What is the minimum soaked CBR value required for the base materials obtained at the maximum dry density determined by AASHTO T180 Method D?",
+    "choices": [
+      "25",
+      "50",
+      "75",
+      "80"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 307,
+    "question": "307. The minimum moisture content at which soil can be rolled into thread of 1/8” in diameter without breaking is known as________.",
+    "choices": [
+      "Liquid limit",
+      "Plastic limit",
+      "Shrinkage limit ",
+      "Atterberg limit"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 308,
+    "question": "308. The mortar proportion of stone masonry shall be:",
+    "choices": [
+      "One part cement, 2 parts sand",
+      "One part cement, 3 parts sand",
+      "One part cement, 4 parts sand",
+      "One part cement, 1 part sand"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 309,
+    "question": "309. Why are undisturbed samples used primarily for determining the properties of foundation materials?",
+    "choices": [
+      " The retain the structure of materials",
+      "Because it is easier to obtain undisturbed sample than disturbed sample",
+      "Because it is easier to test undisturbed sample that disturbed sample",
+      "Because it is represents the relative of the soil strata when subjected to compression test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 310,
+    "question": "310. Test reports on thirteen (13) concrete beam samples indicate that loading was stopped after reaching the required flexural strength of 550 psi. this practice is:",
+    "choices": [
+      "Improper because test procedure provides that the test should be carried out to failure",
+      "Improper because test procedure was stopped without basis",
+      "Proper because the strength specification for concrete pavement is 550 psi",
+      "Proper because the test should not be carried out to failure since machine maybe damages"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 311,
+    "question": "311. Universal Testing Machines should be calibrated at least:",
+    "choices": [
+      "Every three months",
+      "Every six months",
+      "Every year",
+      "Every two years"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 312,
+    "question": "312. Three cores taken from a pavement section poured on a single day were tested to have strengths as follows:\nCore Strength (psi)\n1 3650\n2 3000(86% of 3500 psi)\n3 2450 (70% of 3500 psi)\nAverage 3033 (87% of 3500 psi)\nIf the required strength is 3500 psi, concrete in the area represented by these cores: ",
+    "choices": [
+      "Maybe accepted, subject to price adjustment",
+      "Is considered adequate",
+      "Is considered inadequate",
+      "May be record, at the initiative of the DPWH"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 313,
+    "question": "313. The election by a standard method of a representative portion of a material for the purpose of ascertaining its characteristics is called:",
+    "choices": [
+      "Batching",
+      "Sampling",
+      "Quarrying",
+      "Quartering"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 314,
+    "question": "314. Which of the following does not fall under the primary responsibility of the materials engineer",
+    "choices": [
+      "Sampling",
+      "Testing",
+      "Inspection",
+      "Lineal measurements"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 315,
+    "question": "315. What other type of cement is allowed to be used from Item 311 and 405 in the absence of Portland cement?",
+    "choices": [
+      "Portland Cement Type 1",
+      "Pozzolan Cement",
+      "Portland Pozzolan Cement Type 1P",
+      "Hydraulic Cement"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 316,
+    "question": "316. A soil compacted dry will reach a certain dry density. If compacted again with the same compactive effort, but this time with water in the soil, the dry density will be higher because:",
+    "choices": [
+      "The water lubricates the grains and allows them to slide in a denser structure",
+      "Air is forced out of the soil",
+      "More space if left for the solids",
+      "All of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "question": "317. Emulsified asphalt applied as tack coat prior to laying of bituminous mix is completely cured one it turns to what color?",
+    "choices": [
+      "Brown",
+      "Gray",
+      "Black",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 318,
+    "question": "318. If one measurements of a core specimen taken from a concrete pavement is 23.6 cm, what is the corrected measurement to be used in calculating the average thickness of the pavement if the design thickness is 23. cm.?",
+    "choices": [
+      "23.6 cm.",
+      "23.0 cm.",
+      "23.5 cm.",
+      "24.0 cm."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 319,
+    "question": "319. An Inspection Report can be issued as basis for acceptance for the following except:",
+    "choices": [
+      "Water",
+      "Topsoil",
+      "Pavement marking",
+      "Sodding"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 320,
+    "question": "320.  The purpose of conducting laboratory CBR test on the fill materials for embankment is the check:",
+    "choices": [
+      "Permeability of the compacted subgrade material",
+      "Swelling characteristics of the subgrade material",
+      "Bearing capacity of subgrade material",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 321,
+    "question": "321. When the top surface of a concrete specimen is rough and not truly plane, stress concentrations are introduced and the strength of the concrete is reduced by about:",
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/5"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 322,
+    "question": "322. Per program of work, the estimated volume of Item 201 material is 6,200 cu.m. How many compaction tests are required based on the DPWH minimum testing requirements",
+    "choices": [
+      "4",
+      "5",
+      "20",
+      "21"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 323,
+    "question": "323. Cutback asphalt emulsified asphalt is usually used for:",
+    "choices": [
+      "Prime coating",
+      "Tack Coating",
+      "Seal Coating",
+      "Either a or b"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 324,
+    "question": "324. Under what climate condition (s) do we use the higher penetration grade or soft asphalts?",
+    "choices": [
+      "Cold Climate",
+      "Hot climate",
+      "Both cold and hot climate",
+      "Rainy weather"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 325,
+    "question": "325. What will possibly be the result of using different brands of cement in concrete paving? ",
+    "choices": [
+      "Different strength",
+      "Different texture",
+      "Different color after it has hardened",
+      "No effect"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 326,
+    "question": "326. What is the basis for acceptance or rejection of any construction material?",
+    "choices": [
+      "Minimum Testing requirement",
+      "Certification of Materials Availability",
+      "Certification of Acceptance",
+      "Materials Reports"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 327,
+    "question": "327. The index of the retained strength of the compacted bituminous mixtures is the ration of the compressive strength of immersed and dry bituminous mixtures. What is the minimum index of the retained strength required for bituminous mixtures?",
+    "choices": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 328,
+    "question": "328. What is the specification range for asphalt content in a bituminous concrete mix for surface course paving?",
+    "choices": [
+      "4 to 10 percent of the total dry aggregates mass weight",
+      "5 to 8 percent of the total dry aggregates mass weight",
+      "3.5 to 7.5 percent of the total dry aggregates mass weight",
+      "4 to 8 percent of the total dry aggregates mass weight"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 329,
+    "question": "329. Undersized reinforcing steel bars that satisfy the tensile and elongation requirements may be accepted provided that its underweight does not exceed:",
+    "choices": [
+      "3%",
+      "5%",
+      "6%",
+      "10%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 330,
+    "question": "330. Which of the following is not a purpose of the trial sections for subbase construction?",
+    "choices": [
+      "To check the suitability of the materials",
+      "To check the efficiency of the equipment to be used",
+      "To check the effectiveness of the proposed construction method",
+      "To check the quantity of the subbase material"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 331,
+    "question": "331. Which of the following is the frequency of sampling of concrete beams required by DPWH specification?",
+    "choices": [
+      "At least one set of 3 concrete beams every 50 cu.m or fraction thereof",
+      "At least one set of 3 concrete beams every 500 cu.m or fraction thereof",
+      "At least one set of 3 concrete beams every 75 cu.m of fraction thereof",
+      "At least one set of 3 concrete beams every 750 cu.m of fraction thereof"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "question": "332. Measurement of concrete material for Item 405 – Structural Concrete shall be by:",
+    "choices": [
+      "Weight",
+      "Volume",
+      "Quantity",
+      "Density"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 333,
+    "question": "333. What documentation should be maintained and kept updated by the material engineer during project implementation?",
+    "choices": [
+      "Minimum Testing Requirements",
+      "Materials Logbook",
+      "Quality Control handbook",
+      "Materials Test results"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 334,
+    "question": "334. Aggregates for concrete mixes are classified as either fine or coarse aggregates. Which sieve is used to separate fine from coarse aggregates?",
+    "choices": [
+      "No. 4 (4.75mm)",
+      "No. 6 (3.35mm)",
+      "No. 8 (2.36mm)",
+      "None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 335,
+    "question": "335. What is the frequency of core sampling required on the completed bituminous pavement",
+    "choices": [
+      "Every 100 linear meters per lane",
+      "Every 200 linear meters per lane",
+      "Every 300 linear meters per lane",
+      "Every 400 linear meters per lane"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 336,
+    "question": "336. According to the AASHTO Method of Soil Classification, an A-3 materials is classified as:",
+    "choices": [
+      "Fine sand",
+      "Coarse sand",
+      "Silty clay",
+      "Sandy silt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 337,
+    "question": "337. What class of concrete and range of slump will you use in concreting thin reinforced section, railings, precast RC piles and cribbing?",
+    "choices": [
+      "Class A with slump 2”-4”",
+      "Class B with slump 2”-4”",
+      "Class C with slump 2”-4”",
+      "Class P with slump 2”-4”"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 338,
+    "question": "338. When taking three or more samples of aggregates to be combines for one material sample:",
+    "choices": [
+      "The small samples must be packed in separate sample bags",
+      "The small sample must be obtained from different lots",
+      "The small sample should be of approximately equal size",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 339,
+    "question": "339.Where do we take additional cores when the measurement of any core taken from the pavement is deficient in thickness by more than 25 mm?",
+    "choices": [
+      "At no less than 20 meter intervals parallel to the centreline in each direction from the affected location",
+      "At no less than 15 meter intervals parallel to the centreline in each direction from the affected location",
+      "At no less than 10 meter intervals parallel to the centreline in each direction from the affected location",
+      "At no less than 5 meter intervals parallel to the centreline in each direction from the affected location"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 340,
+    "question": "340. The Standard Penetration test is an in-situ test that measures:",
+    "choices": [
+      "Shear resistance",
+      "Compressive strength",
+      "Depth of soil layer",
+      "Consistency of soil"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 341,
+    "question": "341. Which of the following bituminous material is best recommended for sealing weakened plane joints?",
+    "choices": [
+      "Asphalt Cement",
+      "Emulsified Asphalt",
+      "Cutback Asphalt",
+      "Joint Filler Asphalt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 342,
+    "question": "342. When Testing cement sample, the lead time required to test them should be considered to prevent delays in project implementation. How long does it normally take to test cement samples?",
+    "choices": [
+      "15 days",
+      "21 days",
+      "28 days",
+      "35 days"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 343,
+    "question": "343. Quality of factory-produced reinforced concrete pipes may be best established through:",
+    "choices": [
+      "Engineer’s certification",
+      "Inspection report",
+      "Test of concrete cylinder samples",
+      "Test of concrete pipe samples"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 344,
+    "question": "344. As materials engineer, what is the area of the trial section that you would recommended to check the suitability of the materials and efficiency of the equipment to be used for Item 310, Bituminous Concrete Surface Course?",
+    "choices": [
+      "About 100 sq.m.",
+      "About 400 sq.m.",
+      "About 500 sq.m.",
+      "About 1000 sq.m."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 345,
+    "question": "345. A well-graded aggregates for base course has proper proportioning of:",
+    "choices": [
+      "Sand and gravel",
+      "Sand-gravel and silty-clay",
+      "Sand-silt-clay",
+      "Sand-gravel and deleterious material"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 346,
+    "question": "346. What chemical admixture is needed to produce a concrete mix with improved slump without additional water?",
+    "choices": [
+      "Set accelerating admixture",
+      "Set retarding admixture",
+      "Water reducing admixture",
+      "Fly ash"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 347,
+    "question": "347. In slip-form construction, what is the slump of concrete used?",
+    "choices": [
+      "Not more than 3 inches",
+      "3 to 4 inches",
+      "Almost zero",
+      "Any of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 348,
+    "question": "348. On order to facilitate the acceptance of cement to be used in the implementation of various DPWH projects, the compressive strength of mortar samples tested at 3 days and 7 days can be considered for acceptance provided that the strength of the samples at 7 days is not less than ______ of the compressive strength requirement for 28 days.",
+    "choices": [
+      "80%",
+      "75%",
+      "85%",
+      "90%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 349,
+    "question": "349. A set of three (3) n=beam samples representing a particular section of the concrete pavement failed to meet the flexural strength requirement. As materials engineer, what would you recommend?",
+    "choices": [
+      "Monitor the pavement section with strength deficiency",
+      "Adjust payment corresponding to the strength deficiency of the beam samples",
+      "Conduct core test for strength determination on section represented by the failed samples to determine the actual strength of the in-placed concrete",
+      "Submit new beam samples for testing"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 350,
+    "question": "350. For each full day’s operation, how many asphalt core samples must be taken for thickness determination?",
+    "choices": [
+      "At least one but not more than three core samples",
+      "At least two but not more than four core samples",
+      "At least three but not more than six core samples",
+      "Depends on the total area to be paved"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 351,
+    "question": "351. The percentage residence requirement for hydrated lime on A 0.075 mm (no. 200) sieve shall not be more than.",
+    "choices": [
+      "2%",
+      "15%",
+      "10%",
+      "5%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 352,
+    "question": "352. The latest state of the Art method in determining density.",
+    "choices": [
+      "Falling wt. Deflectometer",
+      "Ground radar",
+      "Ultrasonic tester",
+      "Nuclear Densometer"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 353,
+    "question": "353. If the lab Density of Bituminous mix is 2.33, what is the degree of compaction of a 5 cm. asphalt pavement, if the field density obtained is 2.10?",
+    "choices": [
+      "45",
+      "55",
+      "90",
+      "100"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 354,
+    "question": "354. The Ratio of the weight/mass of the water in the soil to the weight/mass of the dry soil after has been dried to constant weight/mass at a temperature of 110°C + -5.",
+    "choices": [
+      "Field density",
+      "Laboratory Compaction",
+      "Moisture content",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 355,
+    "question": "355. SKID Resistance to asphalt",
+    "choices": [
+      "Gradation",
+      "Texture",
+      "Hardness",
+      "Density"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "question": "356. Density – Voids Analysis",
+    "choices": [
+      "Void Mineral",
+      "Centrifugal – Kerosene",
+      "Hocem Mix – Design",
+      "Marshall method"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 357,
+    "question": "357. The behavior of the soil is influenced by the amount of?",
+    "choices": [
+      "Voids",
+      "Grading",
+      "Moisture",
+      "Plasticity Index"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 358,
+    "question": "358. The transition from plastic to liquid to liquid state?",
+    "choices": [
+      "Shrinkage limit",
+      "Liquid limit",
+      "Plastic limit",
+      "All of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 359,
+    "question": "359. The moisture content in percent, required to close a distance of 12.5 mm along the bottom of the groove after 25 blows",
+    "choices": [
+      "Plastic limit test",
+      "Shrinkage test",
+      "Liquid limit",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 360,
+    "question": "360. The minimum mass of the field samples for coarse aggregate with a minimum nominal size of aggregate of 50mm (no. 22”) sieve.",
+    "choices": [
+      "50 kgs.",
+      "100 kgs.",
+      "75 kgs.",
+      "150 kgs."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 361,
+    "question": "361. One way of checking the suitability of the materials prior to the construction of sub-base/base and the efficiency of equipment and construction method.",
+    "choices": [
+      "By spreading the materials to the required thickness.",
+      "The existing surface shall be graded and finished as required.",
+      "By having a trial section",
+      "By using a 3-m straight edge"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 362,
+    "question": "362. Surface irregularity for subbase materials measured by a 3-m straight edge.",
+    "choices": [
+      "5mm",
+      "20mm",
+      "10mm",
+      "6mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 363,
+    "question": "363. Which of the following information does not contain in a Job Mix Formula",
+    "choices": [
+      "Percentage of aggregates passing each specified sieves",
+      "Delivery temperature of mixture",
+      "The amount of mixing water to the aggregates",
+      "Kind and percentage of mineral filler to be used"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 364,
+    "question": "364. The surface tolerance for departure from the correct cross-section of the sufficiently hardened concrete should not exceed ____ otherwise; the pavement should be removed & replaced at contractor’s expense.",
+    "choices": [
+      "15mm",
+      "12mm",
+      "20mm",
+      "25mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 365,
+    "question": "365. The Clay lumps or shale contain after washing fine aggregate shall not be more than",
+    "choices": [
+      "3 mass percent",
+      "2 mass percent",
+      "1 mass percent",
+      "4 mass percent"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 366,
+    "question": "366. Stones, for grouted riprap shall be laid with close, broken joints and shall be firmly bedded into slope and against the adjoining stones, each stone shall be laid.",
+    "choices": [
+      "With their longest faces horizontal in full beds of mortal and should be parallel to faces of the wall be laid.",
+      "Each stone shall be laid with each longest axis perpendicular to the slope.",
+      "All of the above",
+      "None of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 367,
+    "question": "367. The Variation of the surface on finished asphalt pavement form the testing edge using 3-m straight edge at right angles between contract with the surface shall not exceed.",
+    "choices": [
+      "5mm",
+      "8mm",
+      "6mm",
+      "4mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 368,
+    "question": "368. Portland cement shall be rejected.",
+    "choices": [
+      "It has partially set",
+      "It contains lumps of cake cement",
+      "It comes from a discharged or use bags",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 369,
+    "question": "369. The speed of the roller for the initial and final compaction shall not exceed.",
+    "choices": [
+      "6 kph",
+      "5 kph",
+      "10 kph",
+      "8 kph"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 370,
+    "question": "370. Filled gabions shall have a minimum density of ",
+    "choices": [
+      "1500 kg/m3",
+      "1400 kg/m3",
+      "1600 kg/m3",
+      "1600 kg/m3"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 371,
+    "question": "371. Rock gabions shall be generally uniform graded in sizes ranging from?",
+    "choices": [
+      "50mm – 100mm",
+      "100mm – 200mm",
+      "200mm – 400mm",
+      "200mm – 300mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 372,
+    "question": "372. Department Order series of 1999 re-guidelines of the accreditation of contractors and consultant’s materials engineers.",
+    "choices": [
+      "D.O. # 155",
+      "D.O. # 180",
+      "D.O. # 15",
+      "D.O. # 184"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 373,
+    "question": "373. Weep holes shall be placed at the lowest points where free outlets for water can be obtained and shall be spread not more than?",
+    "choices": [
+      "1 meter center to center",
+      "3 meter center to center",
+      "2 meter center to center",
+      "2 ½  meter center to center"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 374,
+    "question": "374. The maximum Average deficient thickness per lot of core specimens where 100% payment is recommended?",
+    "choices": [
+      "6mm",
+      "10mm",
+      "25mm",
+      "5mm"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 375,
+    "question": "375. To non-load bearing concrete masonry shall have a minimum individual compressive strength.",
+    "choices": [
+      "4.14 Mpa",
+      "3.45 Mpa",
+      "5.50 Mpa",
+      "3.0 Mpa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 376,
+    "question": "376. Concrete in the area represented by the cores will be considered adequate if the average strength of the cores is equal to 85% of the specified strength of f’c and no single cope is less than?",
+    "choices": [
+      "85 % f’c",
+      "80 % f’c",
+      "75 % f’c",
+      "100 % f’c"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 377,
+    "question": "377. Minimum weight of samples for moisture content determination for materials passing 50mm (2”) sieve.",
+    "choices": [
+      "100 grams",
+      "500 grams",
+      "600 grams",
+      "1000 grams"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 378,
+    "question": "378. Soil classification is determined by?",
+    "choices": [
+      "Hydrometer test",
+      "Grading or sieve analysis test",
+      "Atterberg limit test",
+      "B & C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 379,
+    "question": "379. Gabions dimensions are subjected to a tolerance limit on manufacturers stated sizes.",
+    "choices": [
+      "+- 2%",
+      "+- 5%",
+      "+- 1%",
+      "+- 4%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 380,
+    "question": "380. Minmum tensile strength of tendons",
+    "choices": [
+      "300,000 psi",
+      "270,000 psi",
+      "415000 psi",
+      "275000 psi"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 381,
+    "question": "381. Soil can be compacted to 100% if?",
+    "choices": [
+      "It is dry",
+      "It is wet",
+      "It is not too dry or two wet",
+      "It is at optimum moisture content"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 382,
+    "question": "382. In preparing samples of aggregates using quartering method, done on a hard clean and level surface, the reduced size of sample should be taken from?",
+    "choices": [
+      "One Quarter",
+      "Two Adjacent quarter",
+      "Two opposite quarter",
+      "Three quarter reject one"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 383,
+    "question": "383. Which of the following are engineering properties of fined grain soils?",
+    "choices": [
+      "Poor load bearing quality",
+      "Impermeable",
+      "Compressible under sustained load",
+      "All of the above."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 384,
+    "question": "384. Adequate compaction for sub-base/base will result to? ",
+    "choices": [
+      "Greater stability",
+      "Decrease in thickness",
+      "Greater resistance to water adsorption",
+      "A & C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 385,
+    "question": "385. Which of the engineering properties of the soils does not belong to the granular soil?",
+    "choices": [
+      "Good load bearing quality",
+      "Permeable",
+      "Subject to change in strength & volume due to variation in water content",
+      "A & B"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 386,
+    "question": "386. Kind of soils which are susceptible to strength and volume due to change in water content.",
+    "choices": [
+      "Coarse garm soil",
+      "Sandy soil",
+      "Residual soil",
+      "Fine-Grained soil"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 387,
+    "question": "387. % of moisture for timber to be seasoned, used in driving",
+    "choices": [
+      "10-15 %",
+      "16-20 %",
+      "12-18 %",
+      "20-25 %"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 388,
+    "question": "388. Economical way of treating an embankment with spot.",
+    "choices": [
+      "Removal of unsuitable materials",
+      "Using geotextile",
+      "By stabilization",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 389,
+    "question": "389. The 300mm thick subbase materials should compacted in how many layers",
+    "choices": [
+      "1 layer",
+      "2 layer",
+      "3 layer",
+      "4 layer"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 390,
+    "question": "390. The three cores samples has the strength of 3000, 2450 & 260 psi respectively and the required strength is 6,500 psi as a Materials Engineer, What should you recommend?",
+    "choices": [
+      "Acceptable",
+      "Not acceptable",
+      "Reduce the payment",
+      "No payment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 391,
+    "question": "391. Determine the bulk specific gravity of compacted mix. Wt. of sample in air = 1250\nWt. of sample in air water = 710\nWt. of sample in ssd = 1255",
+    "choices": [
+      "2.201",
+      "2.341",
+      "2.294",
+      "2.260"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 392,
+    "question": "392. Indicates the temperature in which the asphalt maybe heated without the danger of catching fire.",
+    "choices": [
+      "Float",
+      "Distillation",
+      "Flash Point",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 393,
+    "question": "393. Measure on how much oil (Volatile) is lost is asphalt and also determine on how far asphalt cement will become harder.",
+    "choices": [
+      "Flash point",
+      "Loss on heating",
+      "Ductility",
+      "Distillation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 394,
+    "question": "394. A kind of asphalt formed by natural process of evaporation",
+    "choices": [
+      "Asphalt cement",
+      "Cut back asphalt",
+      "Emulsified asphalt",
+      "Natural or native asphalt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 395,
+    "question": "395. A requirement specifying the kind and no. of test prescribed in each project based on estimated quantities.",
+    "choices": [
+      "Materials report",
+      "Standard specifications",
+      "Materials Logbook",
+      "Minimum testing requirement"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 396,
+    "question": "396. The amount of sample used to determine CBR test?",
+    "choices": [
+      "20 kg",
+      "35 kg",
+      "50 kg",
+      "55 kg"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 397,
+    "question": "397. Materials finer than 0.075 mm can best be separated from larger particles through",
+    "choices": [
+      "Mechanical shaker",
+      "Grading",
+      "Wet sieving",
+      "Dry sieving"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 398,
+    "question": "398. Test used to determine the resistance of aggregates to disintegration by saturated solution.",
+    "choices": [
+      " Chemical test",
+      "Soundness test",
+      "Atterberg test",
+      "None of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 399,
+    "question": "399. What is the basis for the acceptance or rejection of any construction materials",
+    "choices": [
+      "Quality control program",
+      "Minimum testing requirement",
+      "Certificate of quality control assurance",
+      "Materials test reports"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 400,
+    "question": "400. Which of the following are the components of asphalt",
+    "choices": [
+      "Asphaltenese",
+      "Oil",
+      "Resins",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 401,
+    "question": "401. Asphalt cement dispersed in water with the aid of an emulsifying agent.",
+    "choices": [
+      "Rapid curing cutback",
+      "Medium curing cutback",
+      "Asphalt emulsion",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 402,
+    "question": "402. The measurement of coarse ness and fineness of aggregates",
+    "choices": [
+      "Modulus of elasticity",
+      "Fineness modulus",
+      "Modulus of rapture",
+      "All of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 403,
+    "question": "403. The case which a uniform mass of freshly mixed concrete can be moved without segregation into final position",
+    "choices": [
+      "Durability",
+      "Hydration",
+      "Workability",
+      "Concrete mix"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 404,
+    "question": "404. A concrete masonry block capable of carrying super-imposed load which is used in exterior wall below grade and for unplastered exterior wall above grade that maybe exposed to weather.",
+    "choices": [
+      "Non-bearing block",
+      "Load bearing block",
+      "6” CHB",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 405,
+    "question": "405. A coating on iron or steel articles provides protection against corrosion",
+    "choices": [
+      "Beads",
+      "Paints",
+      "Tar",
+      "zinc"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 406,
+    "question": "406. A 300 cans of 4-L can of paints was delivered at project site intended for exterior and interior painting. How many cans you should obtained and tested for quality?",
+    "choices": [
+      "4 cans",
+      "3 cans",
+      "1 can",
+      "2 cans"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 407,
+    "question": "407. Sampling of soil aggregates in a big stockpile shall be done by:",
+    "choices": [
+      "Taking sample from the bottom, middle and top",
+      "Shoveling of the surface and the bottom of the stockpile and take fall sample thereat",
+      "Shoveling of the surface at the middle of the stockpile and take fall sample thereat",
+      "None of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 408,
+    "question": "408. What property of aggregate provide skid resistance to asphalt pavement ",
+    "choices": [
+      "Grading",
+      "Texture",
+      "Density",
+      "hardness"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 409,
+    "question": "409.For a compacted asphalt pavement, what does the stability value in the Marshall test measure ",
+    "choices": [
+      "Skid resistance",
+      "Resistance to displacement",
+      "Diametric distortion",
+      "Core resistance"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 410,
+    "question": "410. Natural moisture are those present in",
+    "choices": [
+      "Disturb sample",
+      "Undisturbed sample",
+      "None of the above",
+      "All of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 411,
+    "question": "411. Which of the following is not included in the method of curing concrete pavement",
+    "choices": [
+      "By covering the concrete with mats saturated with water",
+      "by thoroughly wetting the pavement and covering its top surface and sides with waterproof paper.",
+      "By spraying plastisizer compound of the top the pavement after the concrete has been broom \nfinished",
+      "By spraying uniformly with white pigment curing compound immediately after finishing of the \nsurface"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 412,
+    "question": "412.The weighted loss of fine aggregates subjected to 5 cycles of the sodium sulfate soundness test should not exceed",
+    "choices": [
+      "12 mass%",
+      "10 mass%",
+      "6 mass%",
+      "4 mass%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 413,
+    "question": "413. Fine aggregates shall be rejected when it falls in the _________ for organic impurities",
+    "choices": [
+      "Specific gravity",
+      "Colormatic test",
+      "Garding test",
+      "Washing test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 414,
+    "question": "414. The coarse aggregate used for PCCP shall not contain more than ________ of materials passing the 0.075 mm (no. 200 sieve) by washing",
+    "choices": [
+      "2 mass %",
+      "1 mass%",
+      "3.5 mass%",
+      "4 mass%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 415,
+    "question": "415. Using the modified Proctor test (AASHTO T-180) method D for moisture density relation test soil, what is the height of drop to a free fall above the elevation of the soil and uniformly distributes such drops to the soil surface?",
+    "choices": [
+      "381 mm (15”)",
+      "305 mm (12”)",
+      "457 mm (18”)",
+      "254 mm (10”)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 416,
+    "question": "416. What is the weight of class “A” riprap stones?",
+    "choices": [
+      "20 kgs to a minimum of 35 kgs with at least 50% weighing 30 kgs",
+      "15 kgs to a minimum of 25 kgs with at least 50% weighing 20 kgs",
+      "15 kgs to a minimum of 30 kgs with at least 50% weighing 25 kgs",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 417,
+    "question": "417. Used to evaluate the potential strength of oil/aggregate",
+    "choices": [
+      "Liquid limit ",
+      "Compaction ",
+      "CBR",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 418,
+    "question": "418. A program of quality control works to be complied by the contractor is prepared by the DPWH",
+    "choices": [
+      "Minimum testing requirements",
+      "Quality control program",
+      "Logbook",
+      "Material Test Report"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 419,
+    "question": "419. The stones used for stone masonry shall have a thickness of not less than",
+    "choices": [
+      "200 mm",
+      "100 mm",
+      "150 mm",
+      "50 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 420,
+    "question": "420. Test which gives an indication of clay content soil",
+    "choices": [
+      "Plasticity index",
+      "Group index",
+      "Liquid index",
+      "All of the Above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 421,
+    "question": "421. Materials containing detrimental quantities of organic material such as grass, root and sewerage, highly organic soils such as peat and muck",
+    "choices": [
+      "Suitable materials",
+      "Unsuitable materials",
+      "embankment",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 422,
+    "question": "422. A wire mesh made of galvanized steel used as a protection works.",
+    "choices": [
+      "Tire wires",
+      "Galvanized iron sheet",
+      "gabions",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 423,
+    "question": "423.Bituminous mixture will be measured by",
+    "choices": [
+      "Linear meter",
+      "Tonnes",
+      "gm/cm3",
+      "square meters"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 424,
+    "question": "424. The average of four (4) measurement on the asphalt core specimen is to determine the?",
+    "choices": [
+      "Density",
+      "Thickness",
+      "Asphalt mixture",
+      "All of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 425,
+    "question": "425. The computation for the quantity of bituminous mixture, are the following: Given:\nPaving length represented, m=  120\nThickness, cm           =  5.0\nWidth, m           =  3.05\nTotal length of pavement, m  =  380\nDensity, gm/cm3                      =  2.221",
+    "choices": [
+      "50.33 tonnes ",
+      "40.64 tonnes ",
+      "43.88 tonnes",
+      "35.78 tonnes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 426,
+    "question": "426. Main constituents of asphalt which is found in nature or as a residue in petroleum refining",
+    "choices": [
+      "Cut-back",
+      "Alkaline",
+      "bitumen",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 427,
+    "question": "427. During the breakdown rolling of asphalt mix, it is carried out by",
+    "choices": [
+      "Pneumatic",
+      "Steel wheeled roller",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 428,
+    "question": "428.Transverse  construction joint is also call as ______, is constructed when there is an interruption of more than 30 minutes in the concreting works.",
+    "choices": [
+      "Contraction joint",
+      "Cold joint",
+      "Expansion joint",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 429,
+    "question": "429. Oversanded and undersanded mixtures require more water in order to workable, but making it so will only result in a sacrifice in",
+    "choices": [
+      "Workability",
+      "Durability",
+      "Strength",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 430,
+    "question": "430. Strength of concrete is principally dependent on the",
+    "choices": [
+      "Aggregates",
+      "Water-cement ratio",
+      "cement",
+      "All of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 431,
+    "question": "431. Interconnected cracks forming a series of small blocks resembling an alligator’s skin or chicken wire",
+    "choices": [
+      "Alligator cracks",
+      "Hairline cracks",
+      "Transverse cracks",
+      "Reflection cracks"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 432,
+    "question": "432. A layer of an asphalt aggregate mixture of variable thickness used to eliminate irregularities in the content of an existing surface prior to replacement of an overlay",
+    "choices": [
+      "Asphalt Cement",
+      "Asphalt Surface Treatment",
+      "Asphalt Leveling Course",
+      "Asphalt tack coat"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 433,
+    "question": "433. An application of low-viscosity cutback to an absorbent surface or a mixed-in application of emulsifies asphalt. It is only untreated base prior to replacement of an asphalt pavement",
+    "choices": [
+      "Asphalt seal coat",
+      "Asphalt Surface Prime Coat",
+      "Asphalt tack coat",
+      "Asphalt Cement"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 434,
+    "question": "434.A thin asphalt surface treatment used to waterproof an improve the texture of an asphalt wearing surface",
+    "choices": [
+      "Asphalt tack coat",
+      "Asphalt seal coat",
+      "Asphalt Surface Treatment",
+      "Asphalt Cement"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 435,
+    "question": "435.The upward movement of asphalt in an asphalt pavement resulting in the formation of a film of asphalt on the surface.",
+    "choices": [
+      "Blow-up",
+      "Asphalt seal coat",
+      "Bleeding or flushing asphalt",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 436,
+    "question": "436. An application of asphalt materials to any type of road or pavement surface with or without a cover of mineral aggregates that produce an increase in thickness of less than25mm or 1 inch.",
+    "choices": [
+      "Asphalt overlay",
+      "Asphalt Surface Treatment",
+      "Macadam Asphalt",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 437,
+    "question": "437. The localized buckling or shattering of rigid-type pavement, occurring usually at transverse crack or joint.",
+    "choices": [
+      "Longitudinal crack",
+      "Blow-up",
+      "Alligator crack",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 438,
+    "question": "438.A very light application of asphalt applied to an existing asphalt or Portland cement surface, used to ensure a bond between the surface of being paved and the overlaying course",
+    "choices": [
+      "Asphalt seal coat",
+      "Asphalt tack coat",
+      "Asphalt Leveling Course",
+      "Asphalt Surface Treatment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 439,
+    "question": "439. A mixture of slow-setting emulsified asphalt, water. Aggregates and mineral filler, produced to a slurry consistency and placed on pavement surface.",
+    "choices": [
+      "Asphalt sea coat",
+      "Asphalt emulsion slutty seal",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 440,
+    "question": "440. The separation of the pavement due to natural causes, traffic action, or localized disintegration ",
+    "choices": [
+      "Construction joint",
+      "Crack",
+      "Bleeding",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 441,
+    "question": "441. The blow-shape of varying sizes in the pavement, resulting from localized disintegration",
+    "choices": [
+      "Potholes",
+      "Cracks",
+      "ravelling",
+      "Scalling"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 442,
+    "question": "442. A crack in asphalt overlays the reflects the crack pattern in the pavement structure underneath",
+    "choices": [
+      "Reflective cracks",
+      "Transverse cracks",
+      "Hairline cracks",
+      "Longitudinal Cracks"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 443,
+    "question": "443. The progressive separation of aggregate particles in a pavement from the surface downward or from the edge inward",
+    "choices": [
+      "Pumping",
+      "Ravelling",
+      "Micro-surfacing",
+      "Scalling"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 444,
+    "question": "444. A cracks sometimes crescent shaped, that joint in the direction of the trust of the wheels of the pavement surface, caused by lack of bond between two pavement layers",
+    "choices": [
+      "Slippage cracks",
+      "Reflection cracks",
+      "Longitudinal cracks",
+      "Transverse Cracks"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 445,
+    "question": "445. Any condition that might contribute to making a pavement slippery",
+    "choices": [
+      "Skid resistance",
+      "Skid hazard",
+      "None of the above",
+      "All of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 446,
+    "question": "446. Emulsified asphalt which works better with wet aggregates",
+    "choices": [
+      "Anionic emulsion",
+      "Cationic emulsion",
+      "Tar",
+      "Bitumen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 447,
+    "question": "447. Accepts greater compressive stress induce by traffic in the sub-grade and sub-base",
+    "choices": [
+      "Sub-grade",
+      "Subbase",
+      "Base course",
+      "embankment"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 448,
+    "question": "448. Reduces the vertical compressive stress induce by traffic in the sub-grade and sub-base",
+    "choices": [
+      "Embankment",
+      "Sub-grade",
+      "Sub-base",
+      "Base"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 449,
+    "question": "449. Is the chief load-bearing elements of a gravel road",
+    "choices": [
+      "Sub-grade",
+      "Base course",
+      "Sub-base course",
+      "embankment"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 450,
+    "question": "450. Testing reinforce concrete culvert pie, what is the minimum load in order to produce 0.3 mm (0.01 inch) rack?",
+    "choices": [
+      "20 N/m/mm",
+      "30 N/m/mm",
+      "40 N/m/mm",
+      "50 N/m/mm"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 451,
+    "question": "451. Which of the following is not a duty of the asphalt plant inspector?",
+    "choices": [
+      "Knowing the procedure for property calibrating asphalt meters and aggregate feeders",
+      "Monitoring plant operations to ensure uniform production of mix meeting specifications",
+      "Maintaining complete and accurate formal records",
+      "Ajusting any plant control, setting any dial, gauges or meters."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 452,
+    "question": "452. The extraction test on asphalt mixes is made to determine:",
+    "choices": [
+      "The amount of coarse and fine aggregates in the mix",
+      "The amount of mineral filler in the mix",
+      "The amount of asphalt in the mix",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 453,
+    "question": "453. If the bulk specific gravity of a bituminous mix is 2.243, and the dry stability is 3,100 lbs., what will the approximate wet stability if its Index of Retained Strength (IRS) is 82%?",
+    "choices": [
+      "2,542 lbs.",
+      "3,780 lbs.",
+      "5,702 lbs.",
+      "6,953 lbs."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 454,
+    "question": "454. Cement which has been in storage for so long a period that there is already doubt as to its quality should:",
+    "choices": [
+      "Not be used",
+      "Be allowed to be used",
+      "Be retested prior to use",
+      "Be reprocessed prior to used"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 455,
+    "question": "455. Specimens for compressive or flexural strength tests shall be removed from the molds at the end of 24 hours and stored in a moist condition at a temperature range of ____ until the time of test. ",
+    "choices": [
+      "22°C to 28°C",
+      "22°C to 26°C",
+      "18°C to 24°C",
+      "18°C to 48°C"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 456,
+    "question": "456. The test that determine the purity of asphalt cement is called:",
+    "choices": [
+      "Ductility",
+      "Specific gravity",
+      "Viscosity",
+      "Solubility"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 457,
+    "question": "457. What is the best temperature to begin rolling (compaction) of the bituminous mix?",
+    "choices": [
+      "Maximum temperature at which the mix will support the roller without moving horizontally",
+      "Maximum temperature at which the mix can be compacted without watering the roller",
+      "The minimum temperature at which densification can take place",
+      "The minimum temperature at which the mix can be compacted without cracking"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 458,
+    "question": "458. What is used to measure pavement deflection?",
+    "choices": [
+      "Falling weight deflectometer equipment",
+      "Profile deflectometer",
+      "Dynamic cone penetrometer apparatus",
+      "3-meter straight edge"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 459,
+    "question": "459. What is the significance of the loss on ignition of cement?",
+    "choices": [
+      "It is a measure of the heat generated when cement is mixed with water",
+      "It signifies pre-hydration of moisture uptake of cement while is shelved",
+      "It is a  measure of the resistance of cement when exposed to fire",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 460,
+    "question": "460. Accurate sampling of aggregates in pits or quarry and stockpiles requires skill and judgement. The samples to be of any value must therefore be:",
+    "choices": [
+      "Of no considerable variation in the size of grain",
+      "Consisting of loosely arranged bundles of particles",
+      "Free from other impurities",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 461,
+    "question": "461. The workability of a bituminous mix is dependent on the:",
+    "choices": [
+      "Gradation of aggregates",
+      "Temperature of mix",
+      "Asphalt content",
+      "Shape and texture of aggregates"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 462,
+    "question": "462. The most basic criteria that can be applied for rejection of asphalt mixture delivered to the site is:",
+    "choices": [
+      "Asphalt content",
+      "Grading of mixture",
+      "Temperature of mixture",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 463,
+    "question": "463. The following are the measurements (in cm.) of the concrete core taken for thickness determination at Sta. 0+100: 28.5, 28, 28.5, 28, 28.8, 29, 28.5, 29. Actual measurement of the core at the center is 28cm. the designed thickness is 28 cm. What is the average thickness of the core?",
+    "choices": [
+      "28.23 cm.",
+      "28.33 cm.",
+      "28.38 cm.",
+      "28.48 cm."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 464,
+    "question": "464. The upper limit of grain for determining the Atterberg limits of soils is:",
+    "choices": [
+      "No. 10 sieve",
+      "No. 40 sieve ",
+      "No. 100 sieve ",
+      "No. 200 sieve"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 465,
+    "question": "465. What test determines the silt clay of soil?",
+    "choices": [
+      "Liquid limit test",
+      "Plastic limit test",
+      "Shrinkage limit test",
+      "Hydrometer test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 466,
+    "question": "466.What is the function of emulsifiers in liquid asphalt?",
+    "choices": [
+      "To increase mixing ability with aggregates",
+      "To retain water in asphalt for longer periods",
+      "To prevent asphalt from hardening",
+      "To enable asphalt and water to mix"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 467,
+    "question": "467. What test is used to determine the index of retained strength of a bituminous mix?",
+    "choices": [
+      "Marshall Stability",
+      "Immersion-Compression test",
+      "Extraction and grading tests",
+      "Stability test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 468,
+    "question": "468. What differentiates the comparison of Item 201-Aggregate Base Course from Item 200-Aggregate Subbase Course?",
+    "choices": [
+      "Item 201 contains less binder and smaller size of gravel than Item 200",
+      "Item 201 contains more binder and biggerr size of gravel than Item 200",
+      "Item 201 contains sand and gravel only",
+      "Item 201 contains sand and fine-gained soils only"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 469,
+    "question": "469. It is a single procedure to determine the suitability of an asphaltic concrete mix.",
+    "choices": [
+      "Penetration",
+      "Extraction",
+      "Marshall Stability",
+      "Immersion-Compression"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 470,
+    "question": "470. The California Bearing Ratio (CBR) value indicates:",
+    "choices": [
+      "The relative ease at which the subgrade or base materials can be compacted",
+      "The relative strength of a subgrade soil, subbase, or base course material",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 471,
+    "question": "471. ASTM C-150 requires that the 28-day strength of mortar made from Type I Portland Cements be at least 27.6 MPa. Three specimens were tested: Two passed but one failed by more than 20%. As Materials Engineer, what will be your conclusion?",
+    "choices": [
+      "Discard the failed result and conclude that the particular cement passed the specification",
+      "Perform a re-test since the data is inclusive",
+      "Get the average of the three and if the average is more than 27.6MPa, conclude that the particular cement passed the specification",
+      "Conclude that the cement did not pass the specification since it failed to give consistent result"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 472,
+    "question": "472. A transit mixer for road construction was found to have a 6-inches slump of fresh concrete instead of the required 3-inches slump. What will you recommend if you are assigned as Materials Engineer?",
+    "choices": [
+      "Add Portland cement to attain the required 3-inches slump",
+      "Add Portland cement and fine aggregate to attain the required 3-inches slump",
+      "Reject the cement mixture",
+      "Let the concrete mix diverted for pouring on a prepared column for retaining wall of the same project"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 473,
+    "question": "473. A concrete core specimen for the thickness determination shall have a diameter of at least:",
+    "choices": [
+      "75 mm",
+      "100 mm",
+      "125 mm",
+      "150 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 474,
+    "question": "474. If two concrete cylinders A and B are tested in uniaxial compression, and if cylinder A is completely saturated while cylinder B is dry, which of the following is true?",
+    "choices": [
+      "Both cylinders will yield the same compressive strength provided that all other factors are the same",
+      "Whether Cylinder A will yield a higher compressive strength over Cylinder B (or cylinder B over cylinder A) is unpredictable",
+      "Cylinder A will yield a higher compressive strength",
+      "Cylinder B will yield a higher compressive strength"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 475,
+    "question": "475. How many pipes should be tested for strength, absorption and dimension on 300 pieces of reinforced concrete culvert pipe?",
+    "choices": [
+      "One",
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 476,
+    "question": "476. In testing bituminous mix sample for Immersion-Compression Stability the specimen for wet stability is soaked in a water bath for _____ hours prior to testing.",
+    "choices": [
+      "24",
+      "48",
+      "72",
+      "96"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 477,
+    "question": "477. The moisture-density curve is different for each soil. Which of the following statements is/are true?",
+    "choices": [
+      "Granular, well-graded soils generally have fairly high maximum densities at low optimum moisture content (OMC)",
+      "Clay soils have lower densities at OMC than granular, well-graded soils",
+      "Granular, well-graded soils have higher densities than uniform soils at OMC",
+      "All of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 478,
+    "question": "478. What apparatus measures the specific gravity of hydraulic Portland cement?",
+    "choices": [
+      "Blaine-aire permeability apparatus",
+      "La Chatelier flask apparatus",
+      "Autoclave expansion apparatus",
+      "Vicat apparatus"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 479,
+    "question": "479. As materials engineer, when is the right time to start sampling and testing of aggregate base course material?",
+    "choices": [
+      "Once the materials is delivered and stockpiled",
+      "As construction work progress",
+      "Once the source is identified",
+      " After the material was incorporated into the work"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 480,
+    "question": "480. Embankment materials are classified as unsuitable materials if:",
+    "choices": [
+      "The natural moisture content is 50%.",
+      "The liquid limit is 40%",
+      "The plasticity index is 60%",
+      "The natural density is 1200 kilogram per cubic meter"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 481,
+    "question": "481. A concrete core sample having a maximum height of less than ____ of its diameter before capping or a height less that its diameter after capping shall not be tested.",
+    "choices": [
+      "93%",
+      "94%",
+      "95%",
+      "96%"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 482,
+    "question": "482. Which of the following are the qualitative requirements for reflective thermoplastic stripping materials (solid form) intended for pavement markings under the DPWH Standard Specifications?",
+    "choices": [
+      "Specific gravity and drying time",
+      "Bond strength to Portland Cement Concrete after heating",
+      "Cracking resistance at low temperature after heating",
+      "All of the Above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 483,
+    "question": "483. In the filed density test, the volume of the hole is equal to:",
+    "choices": [
+      "The dry unit weight divided by the maximum dry density",
+      "The wet unit weight divided by the moisture content",
+      "The total materials taken form the hole divided by the wet unit weight",
+      "The weight of sand to fill the hole divided by the unit weight of the dry sand"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 484,
+    "question": "484. A subgrade with CBR value of 2 or less considered as:",
+    "choices": [
+      "Weak",
+      "Normal",
+      "Stable",
+      "Very Stable"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 485,
+    "question": "485. From the materials point of view, subgrade construction consists mainly of:",
+    "choices": [
+      "Identification and treatment of unsuitable material",
+      "Compaction of the whole depth of material in embankments",
+      "Compaction of the top layer of the cuts.",
+      "All of the Above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 486,
+    "question": "486. Before an asphalt pavement or asphalt surface treatment is placed on a newly prepared granular base, what is applied?",
+    "choices": [
+      "Seal coat",
+      "Tack coat",
+      "Prime coat",
+      "Bituminous surface treatment"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 487,
+    "question": "487. The frequency of sampling and testing for compacting subbase material is:",
+    "choices": [
+      "1 per 300 cubic meter",
+      "1 per 500 cubic meter",
+      "1 per 1,500 cubic meter",
+      "1 per 2,500 cubic meter"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 488,
+    "question": "488. In which DPWH Item is emulsified asphalt not suitable? ",
+    "choices": [
+      "Item 301, Bituminous Prime Coat",
+      "Item 302, Bituminous Tack Coat",
+      "Item 304, Bituminous Surface Treatment",
+      "Item 308, Bituminous Plant-Mix Course, Cold Laid"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 489,
+    "question": "489.The aggregate component contributes internal friction to shear strength and stability of the bituminous mixture. The desirable shape and surface of aggregates particles are:",
+    "choices": [
+      "Round and smooth aggregate particles",
+      "Angular and smooth aggregate particles",
+      "Round and rough-textured particles",
+      "Angular and rough-textured particles"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 490,
+    "question": "490. In in-situ soil CBR strength determination, DCP means",
+    "choices": [
+      "Dynamic Cone Profiler",
+      "Dynamic Compressive Performance",
+      "Dynamic Cone Penetrometer",
+      "Dynamic Compressive Penetrometer"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 491,
+    "question": "491. Which of the following test determine the optimum moisture content of soil?",
+    "choices": [
+      "Tri-axial test",
+      "Proctor tests",
+      "Sand-cone test",
+      "Field density test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 492,
+    "question": "492. As percent asphalt increases in Marshall Stability, the air voids:",
+    "choices": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Either A or B"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 493,
+    "question": "493. When the strength test results of concrete beam samples are not acceptable, how many representative core/s shall be taken from each member or area of concrete in-place considered deficient in the newly completed concrete pavement?",
+    "choices": [
+      "At least 4 cores",
+      "At least 3 cores",
+      "At least 2 cores",
+      "Only 1 core"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 494,
+    "question": "494.Soil classification is determine by _________",
+    "choices": [
+      "Atterberg limit test",
+      "Sieve analysis test",
+      "Hydrometer test",
+      "A and B"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 495,
+    "question": "495. Penetration test for asphalt cement is a measure of:",
+    "choices": [
+      "Consistency",
+      "Solubility",
+      "Ductility",
+      "fluidity"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 496,
+    "question": "496. Newly fabricated bridging material/panels (U.K., Austria, Spain) were delivered DPWH depot. Aside from the Mill Certificate, what sample should be taken to check the integrity of bridge panels?",
+    "choices": [
+      "Whole panel assembly",
+      "Reduced section of base metal used in the fabricationc. Any bracing frame form the panel assembly",
+      "Any transom from the panel assembly",
+      "All of the Above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 497,
+    "question": "497. The test which combines a load-deformation test performed in the laboratory with an empirical design chart to determine the thickness of pavement base and other layers is known as:",
+    "choices": [
+      "Plate Bearing Test",
+      "Moisture-Density Determination",
+      "California Bearing Ratio",
+      "Standard Penetration Test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 498,
+    "question": "498. Suppose you have a sack of aggregate sample weighing 20 kg. but you only need 5 kg. for certain test. In the absence of sample splitter, what will be the best way to get a 5 kilogram sample?",
+    "choices": [
+      "Get a 5kg. sample from the middle of the sack",
+      "Remove the aggregate form the sack and lay it a pile on a clean floor then get the 5kg.",
+      "Perform the quartering procedure",
+      "Get a 5kg. sample direct form the sack"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 499,
+    "question": "499. In compacted asphalt pavement, the small air spaces between coated aggregates are:",
+    "choices": [
+      "Mineral fillers",
+      "Mineral spacers",
+      "Voids",
+      "porosity"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 500,
+    "question": "500. A one-lane road, with a pavement width of 3.5 meters and shoulder width of 0.5 meter on each side of the pavement, was designed to have subbase and base courses with a combined thick of 300mm. if the thickness of the subbase is 125mm, the spreading and compaction of the subbase and base courses shall be carried out in:",
+    "choices": [
+      "3 layers over the full width of 4.5m",
+      "2 layers over the full width of 4.5m",
+      "1 layers over the full width of 4.5m",
+      "4 layers over the full width of 4.5m"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 501,
+    "question": "501. In order to comply the requirements of asphalt mixture, the Index of Retained Strength shall not be less than _______ when tested by AASHTO T165.",
+    "choices": [
+      "85",
+      "60",
+      "90",
+      "None of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 502,
+    "question": "502. An asphalt mixture in order to be acceptable should not loss more than ______ percent of its dry strength when subject to the standard immersion-compression test.",
+    "choices": [
+      "30",
+      "35",
+      "40",
+      "15"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 503,
+    "question": "503. Responsible for the plastic properties of the asphalt and also imparts hardness.",
+    "choices": [
+      "Maltenes",
+      "Napantenes",
+      "Asphaltene",
+      "Petroline"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 504,
+    "question": "504. The flow value for all traffic requirements for paving mixtures shall not exceed _____ when measured in 0.25 penetration.",
+    "choices": [
+      "10",
+      "18",
+      "16",
+      "12"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 505,
+    "question": "505. It is an important data in the determination of the degree of compaction of a newly constructed asphalt pavement.",
+    "choices": [
+      "Density of aggregates",
+      "Specific gravity",
+      "Thickness of asphalt mix",
+      "Core test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 506,
+    "question": "506. The rate of application for the bituminous prime coat shall be in the range of _______. ",
+    "choices": [
+      "0.2 to 0.7 liters/m2",
+      "0.5 to 1.5 liters/m2 ",
+      "1.0 to 2.0 liters/m2",
+      "1.5 to 2.5 liters/m2"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 507,
+    "question": "507. Minimum diameter of gabions per standard specification requirements.",
+    "choices": [
+      "2.70 mm",
+      "3.00 mm",
+      "2.50 mm",
+      "1.70 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 508,
+    "question": "508. AASHTO Designation for plastic limit test.",
+    "choices": [
+      "AASHTO T-89",
+      "AASHTO T-99",
+      "AASHTO T-90",
+      "AASHTO T-91"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 509,
+    "question": "509. Bituminous mixture will be measured be",
+    "choices": [
+      "Linear meter",
+      "Tones",
+      "Gm/cm",
+      "Sq. mtrs"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 510,
+    "question": "510. Size of asphalt core specimen for thickness and density determination.",
+    "choices": [
+      "At least 150 mm X 150 mm",
+      "100 mm dia, full depth",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 511,
+    "question": "511. Determine the bulk specific gravity at a compacted asphalt core with the given data. Weight in air  = 2.145 gm\nSSD   = 1.913 gm\nWeight in water  = 1000 gm ",
+    "choices": [
+      "2.43",
+      "2.34",
+      "2.35",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 512,
+    "question": "512. A core sample shall be taken for every _____ , if no core was taken at the end of each days operation.",
+    "choices": [
+      "100 lm per lane",
+      "100 lm per width",
+      "100 lm per lane or a fraction thereof",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 513,
+    "question": "513. The moisture content corresponding to the intersection of the flow curved with the ______ shock ordinate shall be taken as the liquid limit of the soil.",
+    "choices": [
+      "20",
+      "25",
+      "15",
+      "30"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 514,
+    "question": "514. Test specimen required for items 311 – Portland cement concrete pavement",
+    "choices": [
+      "Concrete mold",
+      "Concrete cylinder",
+      "Concrete beam",
+      "All of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 515,
+    "question": "515. Required slump of PCCP it vibrated.",
+    "choices": [
+      "40 to 75 mm",
+      "30 to 40 mm",
+      "10 to 40 mm",
+      "40 to 75 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 516,
+    "question": "516. The prime coat shall be left undisturbed for a period of at least _____ hrs. and shall not be opened for traffic until it has penetrated and cured sufficiently.",
+    "choices": [
+      "2",
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 517,
+    "question": "517. The rate of application for the bituminous tack coat shall be with in the range of _______. ",
+    "choices": [
+      "0.1 to 0.5 liters/m2",
+      "0.2 to 0.7 liters/m2",
+      "0.5 to 1.5 liters/m2",
+      "1.0 to 2.0 liters/m2"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 518,
+    "question": "518. Hydrated lime shall be added to the asphalt mixture during the mixing operation in the amount of _____ mass percent dry aggregates basis.",
+    "choices": [
+      "2.0 to 5.0",
+      "1.0 to 2.0",
+      "0.2 to 0.7",
+      "0.5 to 1.0"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 519,
+    "question": "519. An asphalt emulsion that works better to wet aggregates.",
+    "choices": [
+      "Anionic",
+      "Cationic",
+      "Maltene",
+      "A and b"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 520,
+    "question": "520. The required minimum depth of insertion of the armored stem thermometer to the asphalt mix. ",
+    "choices": [
+      "2 in",
+      "1 in",
+      "6 in",
+      "4 in"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 521,
+    "question": "521. The dividing line between sand and silt is ______. ",
+    "choices": [
+      "0.10 mm",
+      "0.05 mm",
+      "2.00 mm",
+      "0.005 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 522,
+    "question": "522. Determined the effective asphalt content given the following data: ASPHALT CONTENT 5.40%\nABSORPTION  0.83%",
+    "choices": [
+      "5.35",
+      "5.25",
+      "5.10",
+      "4.61"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 523,
+    "question": "523. Unsuitable materials are soil with a liquid limit exceeding ______.",
+    "choices": [
+      "35",
+      "55",
+      "80",
+      "100"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 524,
+    "question": "524. What is the oven drying temperature for moisture content determination?",
+    "choices": [
+      "160 celsius + 10 Celsius",
+      "110 celsius + 5 celsius",
+      "120 celsius + 5 celsius",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 525,
+    "question": "525. The unit pressure greater than which progressive settlement will occur leading to failure.",
+    "choices": [
+      "Bearing value",
+      "Bearing capacity",
+      "Bearing formula",
+      "Bearing pressure"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 526,
+    "question": "526. If the required thickness for sub-base or base is 150 mm or less, this maybe spread and compacted _____ layer (s ).",
+    "choices": [
+      "One layer",
+      "Two layers",
+      "Three layers",
+      "None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 527,
+    "question": "527. At least how many sets of concrete beam samples will you get and shall, represent a 330 m2 of pavement, 230 mm depth or fraction thereof placed each day? Volume of concrete not more than 75 m.",
+    "choices": [
+      "2 sets",
+      "3 sets",
+      "1 set",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 528,
+    "question": "528. What is the average deficient thickness per lot of cores specimen where no payment is recommended on the project?",
+    "choices": [
+      "More than 20 mm",
+      "More than 25 mm",
+      "More than 15 mm",
+      "More than 5 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 529,
+    "question": "529. The recommended type of Portland Cement to be used in concreting unless otherwise provided for in the special provision.",
+    "choices": [
+      "Type 1-P",
+      "Type 1",
+      "Type 11 and V",
+      "Type IV"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 530,
+    "question": "530. The mass percent of wear or abrasion loss of coarse aggregate used when tested by AASHTO T-96 should not exceed:",
+    "choices": [
+      "50%",
+      "40%",
+      "45%",
+      "30%"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 531,
+    "question": "531. The weep holes shall be placed at the lowest point where free outlets for water can be obtain and shall be spread not more than.",
+    "choices": [
+      "3 m center to center",
+      "1 m center to center",
+      "2 ½ center to center",
+      "2 m center to center"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 532,
+    "question": "532. A concrete core was measured: 23.7, 23.5, 23.4, 23.5, 24.1, 23.1, 23.0, 23.7, 24.2, if the design thickness is 23.0 mm, what will be  the average thickness of the concrete core in accordance with AASHTO 148?",
+    "choices": [
+      "23.5",
+      "23.2",
+      "23.4",
+      "23.3"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 533,
+    "question": "533. Using the standard proctor test or AASHTO T-99 for moisture density relation test, what is the recommended no of blows per layer?",
+    "choices": [
+      "30 blows",
+      "75 blows",
+      "25 blows",
+      "56 blows"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 534,
+    "question": "534. Concrete vibrators shall operate a maximum spacing of _____ ",
+    "choices": [
+      "60 cm",
+      "30 cm",
+      "15 cm",
+      "60 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 535,
+    "question": "535. All washed aggregates shall be stock pilled or binned for draining at least ______ hrs before being batched.",
+    "choices": [
+      "12 hrs",
+      "5 hrs",
+      "24 hrs",
+      "4 hrs"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 536,
+    "question": "536. Mortar that is not used within _____ after the water has been added shall be discarded.",
+    "choices": [
+      "30 minutes",
+      "90 minutes",
+      "1 hour",
+      "45 minutes"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 537,
+    "question": "537. Minimum diameter of gabions wires  per standard specification requirements.",
+    "choices": [
+      "2.70 mm",
+      "3.00 mm",
+      "2.20 mm",
+      "1.70 mm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 538,
+    "question": "538. A thin asphalt treatment used to waterproof and improved the texture of an asphalt wearing surface.",
+    "choices": [
+      "Prime coat",
+      "Seal coat",
+      "Tack coat",
+      "Slurry coat"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 539,
+    "question": "539. Cracks in asphalt overlay that copy the cracks pattern in the pavement structure underneath.",
+    "choices": [
+      "Transverse cracks",
+      "Slippage cracks",
+      "Reflective cracks",
+      "Alligator cracks"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 540,
+    "question": "540. The localized upward displacement of the pavement due to swelling of the subgrade or some portion of the pavement structure.",
+    "choices": [
+      "Shoving",
+      "Upheaval",
+      "Rutting",
+      "Raveling"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 541,
+    "question": "541. Test of asphalt that determines if asphalt is overheated during production.",
+    "choices": [
+      "Flash point test",
+      "Ductility test",
+      "Loss on heating",
+      "Spot test"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 542,
+    "question": "542. The mass percent of air voids in asphalt mixture requirements shall within the range of ___ percent.",
+    "choices": [
+      "3 to 5",
+      "4 to 7",
+      "3 to 6",
+      "5 to 8"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 543,
+    "question": "543. The minimum dry compressive strength of asphalt mixture shall have at least ______ .",
+    "choices": [
+      "150 psi",
+      "300 psi",
+      "400 psi",
+      "200 psi"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 544,
+    "question": "544. It is the lowest moisture content at which the soil will flow upon the application of a very small shearing force.",
+    "choices": [
+      "Liquid limit",
+      "Plastic limit",
+      "Plasticity Index",
+      "Optimum moisture content"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 545,
+    "question": "545. From the worksheets data given below, compute the weight of dry soil Data:\nWt of container + wt of soil = 59.93 grams\nMoisture content  = 33.70%\nMoisture loss   = 3.35 grams\nWt of container   = 46.64 grams",
+    "choices": [
+      "56.68 grams ",
+      "6.48 grams",
+      "9.94 grams ",
+      "26.23 grams"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 546,
+    "question": "546. From the FDT worksheets data given, compute the dry density of soil. Data:\nDensity of calibrated sand  =1.466 g/cc\nWt of sand to fill the hole = 4880 g\nWt of wet soil   =8440 g\nMoisture content of soil  =14.50% ",
+    "choices": [
+      "2.50 g/cc",
+      "2.18 g/cc",
+      "2.21 g/cc",
+      "1.96 g/cc"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 547,
+    "question": "547. Based on your answer on Q 546, compute the degree of compaction if the MDD from the laboratory compaction is 2.35 g/cc.",
+    "choices": [
+      "106",
+      "93",
+      "83",
+      "94"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 548,
+    "question": "548. Determine the density of calibrated sand using the following data: Data:\nWt of water to fill the bucket = 3.260 kgs\nWt of sand to fill the bucket = 4.890 kgs",
+    "choices": [
+      "1.650 kg/m3",
+      "1.500 kg/m3",
+      "2.500 kg/m3",
+      "1.450 kg/m3"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 549,
+    "question": "549. Calculate the moisture content of the material sample with the given data below: Data:\nWt of water   = 6.20 grams\nWt of container + dry soil = 233.89 grams \nWt of container   = 87.28 grams",
+    "choices": [
+      "5.60%",
+      "5.22%",
+      "4.80%",
+      "4.22%"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 550,
+    "question": "550. Asphalt is defined by the American Society for Testing ( ASTM ) as a _____ cementatious \nmaterials, solid or semi-solid in consistency in which the predominating constituents are bituminous.",
+    "choices": [
+      "Chocolate to dark brown",
+      "Light blue to dark blue",
+      "Dark brown to black",
+      "none of the above "
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 551,
+    "question": "551. Defined as fluidity or degree of hardiness. ",
+    "choices": [
+      "Durability",
+      "Flow",
+      "Consistency",
+      "Ductility"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 552,
+    "question": "552. The _____ test is an arbitrary measurement of consistency and is the basis of classification of solid and semi-solid asphalt.",
+    "choices": [
+      "Marshall Stability Test",
+      "Penetration",
+      "Flash point",
+      "Viscosity"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 553,
+    "question": "553. It shows the effect of water on bituminous mixture",
+    "choices": [
+      "Marshall test",
+      "Film stripping",
+      "Extraction",
+      "Immersion-compression failure"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 554,
+    "question": "554. Strength of concrete is principally dependent on the",
+    "choices": [
+      "Cement factor",
+      "Volume of water",
+      "Admixture",
+      "Water-cement ratio"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 555,
+    "question": "555. Method or instrument to measure workability on concrete mix.",
+    "choices": [
+      "Air meter",
+      "Slump test",
+      "Compressive strength test",
+      "Flexural molds"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 556,
+    "question": "556. Forms for PCCP shall remain in place undisturbed for not less than ______ hrs after concrete pouring.",
+    "choices": [
+      "24",
+      "12",
+      "18",
+      "7"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 557,
+    "question": "557. Concrete shall be thoroughly consolidated by means of.",
+    "choices": [
+      "Tamper",
+      "Vibrator",
+      "Plate compactor",
+      "Tamping rod"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 558,
+    "question": "558. Flexural Strength of PCCP when tested at 3rd point. ",
+    "choices": [
+      "24 Mpa",
+      "4.50 Mpa",
+      "3.80 Mpa",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 559,
+    "question": "559. Sampling of CHB is ______ units for every 10,000 units or a fraction thereof.",
+    "choices": [
+      "Six ( 6 )",
+      "Four ( 4 )",
+      "Three ( 3 )",
+      "Two ( 2 )"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 560,
+    "question": "560. Minimum individual compressive strength required for load bearing CHB.",
+    "choices": [
+      "4.14 Mpa",
+      "5.50 Mpa",
+      "6.90 Mpa",
+      "3.45 Mpa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 561,
+    "question": "561. Sampling of cone aggregates for quality test is one ( 1 ) sample for every ____ cubic.",
+    "choices": [
+      "75 m3",
+      "1,500 m3",
+      "300 m3",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 562,
+    "question": "562. Test on cement which measures how fresh the cement is.",
+    "choices": [
+      "Soundness test",
+      "Fineness test",
+      "Loss ignition test",
+      "Time of setting test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 563,
+    "question": "563. Test of Reinforcing Steel bars which determines the percentage of phosphorous.",
+    "choices": [
+      "Tension test",
+      "Yield test",
+      "Chemical test",
+      "Physical test"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 564,
+    "question": "564. In the determination of the liquid limit test, the brass cup is allowed to drop into the base through a height of 1.0 cm by rotating the crank at the rate of ____ per second.",
+    "choices": [
+      "2 rotations",
+      "3 rotations",
+      "1 rotation",
+      "None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 565,
+    "question": "565. In this test, the soil is sheared of failure by moving one part of soil sample to the other part along a predetermined plane.",
+    "choices": [
+      "Direct shear test",
+      "Unconfined compression test",
+      "Triaxial compression test",
+      "Load bearing test"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 566,
+    "question": "566. In the soil classification grouping, the typical material of this group is fine beach sand or fine dessert blow sand without silt or clay fines with a very small amount of none-plastic silt.",
+    "choices": [
+      "A-1",
+      "A-5",
+      "A-2",
+      "A-3"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 567,
+    "question": "567. It is the empirical indicator of clay fraction of binder material in a stabilized soil mixture.",
+    "choices": [
+      "Plastic limit",
+      "Plasticity index",
+      "Liquid limit",
+      "Group index"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 568,
+    "question": "568. Embankment material is considered unsuitable if the.",
+    "choices": [
+      "Liquid limit of soils exceed 80 and/or plasticity index exceeds 55",
+      "Liquid limit of soils exceeds 55 and/or plasticity limit not exceeding 10",
+      "Liquid limit of soil not exceeding 80",
+      "Plasticity index is 0"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 569,
+    "question": "569. In the submission of samples for testing, what is the required minimum quantity of steel pipe (galvanized) sample?",
+    "choices": [
+      "4 pcs. of 100mm long",
+      "2 pcs. of 100mm long",
+      "3 pcs. of 100mm long",
+      "4 pcs. of 100mm long"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 570,
+    "question": "570. Immediately after the finishing operations have been completed and the concrete sufficiently set, the surface of the newly placed concrete shall be cured for a period of ___ hours.",
+    "choices": [
+      "48",
+      "24",
+      "72",
+      "96"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 571,
+    "question": "571. In PCCP, forms shall remain in place undisturbed for not less than ___ hours after concrete pouring.",
+    "choices": [
+      "12",
+      "24",
+      "72",
+      "36"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 572,
+    "question": "572. What type of asphalt/bitumen which is viscous liquid obtained from the distillation of coal and wood.",
+    "choices": [
+      "Liquid asphalt",
+      "Tar",
+      "Asphalt emulsion",
+      "Asphaltene"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 573,
+    "question": "573. The number of measurement made on the asphalt core specimen to determine the thickness of asphalt pavement.",
+    "choices": [
+      "4",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 574,
+    "question": "574. Sampling of asphalt bitumen is 1 sample foe every.",
+    "choices": [
+      "100 drums or 20 m t",
+      "200 drums or 40 m t",
+      "50 drums or 10 m t",
+      "20 drums or 4 m t"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 575,
+    "question": "575. The solid portion of the paint which imparts important properties to the finished material. ",
+    "choices": [
+      "Residue",
+      "Vehicle",
+      "Pigment",
+      "Volatile"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 576,
+    "question": "576. A department order hereby directed no acceptance and final payment shall be made on completed concrete and asphalt pavement unless core test for thickness determination is conducted. ",
+    "choices": [
+      "D. O. # 135",
+      "D. O. # 110",
+      "D. O. # 155",
+      "D. O. # 119"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 577,
+    "question": "577. Rock pieces for gabions shall be generally uniform graded in sizes ranging from.",
+    "choices": [
+      "100 to 200 mm",
+      "200 to 300 mm",
+      "74 to 100 mm",
+      "300 to 450 mm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 578,
+    "question": "578. When the liquid limit or plastic limit cannot be determined, the PI shall be reported as ______.",
+    "choices": [
+      "Zero",
+      "Not applicable ( N A )",
+      "Non-plastic ( N P )",
+      "No G 1"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 579,
+    "question": "579. Test that determined the presence of injaroas organic compounds in nature sands which are to be used in cement mortar or concrete.",
+    "choices": [
+      "Organic compounds",
+      "Organic impurities",
+      "Organic sands",
+      "Soundness test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 580,
+    "question": "580. In California Bearing ratio test, the specimen is soaked for ____ hours.",
+    "choices": [
+      "36 hours",
+      "96 hours",
+      "72 hours",
+      "62 hours"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 581,
+    "question": "581. Determined the effective asphalt content given the following data:\n Asphalt content  5.40% \n Absorption  0.83%",
+    "choices": [
+      "5.35",
+      "5.25",
+      "5.10",
+      "4.61"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 582,
+    "question": "582. Defined as the ability to adhere aggregates in the presence of water.",
+    "choices": [
+      "Adhesion",
+      "Cohesion",
+      "Stability",
+      "Ductility"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 583,
+    "question": "583. Calculate the percent voids of compacted mix with the given data below\n Theoretical maximum specific gravity = 2.558 \n  Bulk specific gravity  = 2.413",
+    "choices": [
+      "5.55%",
+      "4.66%",
+      "5.06%",
+      "5.66%"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 584,
+    "question": "584. What is the allowable phosphorous content of steel bars as required by the DPWH standard specs.?",
+    "choices": [
+      "6%",
+      "4%",
+      "5%",
+      "3%"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 585,
+    "question": "585. Sample should be taken and sent to the regional offices or any private testing laboratories accredited by DPWH for testing, with a _______.",
+    "choices": [
+      "Laboratory result",
+      "Identification card",
+      "Laboratory testing card",
+      "Sample Card"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 586,
+    "question": "586. Sampling requirements for strength and absorption test for none reinforced concrete sewer, storm drain and culvert pipe.\nNot to exceed 2% of the number of pipes of each size",
+    "choices": [
+      "0.50% of the number of pipes of each size but not less than two ( 2 )",
+      "1 sample for each size for every 25 pcs.",
+      "1.5% of the number of pipes of each size but not less than three ( 3 )",
+      "2 samples for each size for every 50 pcs."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 587,
+    "question": "587. Minimum test requirement for galvanized iron sheet is _______.",
+    "choices": [
+      "1 sheet in each lot of 2500 sheets or a fraction thereof",
+      "1 sheet of each lot of 25 sheets or a fraction thereof",
+      "1 sheet in each lot of 250 sheets or a fraction thereof",
+      "None of the above"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 588,
+    "question": "588. Defined as the resistance to disintegration due to the detrimental effects of traffic, water, air and temperature changes.",
+    "choices": [
+      "Strength",
+      "Stability",
+      "Durability",
+      "Permeability"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 589,
+    "question": "589. Defined as the ability of the pavement to bend repeatedly without cracking and to conform to variations of the underlying base.",
+    "choices": [
+      "Viscosity",
+      "Flexibility",
+      "Stability",
+      "None of the above"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 590,
+    "question": "590. Approximately a _____ long specimen shall be obtained to represent a 10,000 kgs of steel.",
+    "choices": [
+      "0.5 meter",
+      "2.0 meter",
+      "1.0 meter",
+      "1.5 meter"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 591,
+    "question": "591. Common method of assessing and stress of both subgrades and pavement. Flexurial strength test",
+    "choices": [
+      "Field density test",
+      "California bearing ratio test",
+      "Compressive strength test",
+      "Direct shear test"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 592,
+    "question": "592. ______ is essential to produce maximum contact between the bitumen-coated aggregate for the development of stability in the mixture.",
+    "choices": [
+      "Compaction effort",
+      "Degree of compaction",
+      "Job-mix formula",
+      "None of the above"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 593,
+    "question": "593. Defined as the resistance to displacement under the sustained or repeated loadings.",
+    "choices": [
+      "Stability",
+      "Flexibility",
+      "Displacement",
+      "Compactibility"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 594,
+    "question": "594. In PCCP the depth of the weakened plane joint should at all times not less than _____ while the width should not be more than _____.",
+    "choices": [
+      "40 mm; 5mm",
+      "50 mm; 6 mm",
+      "45 mm; 5 mm",
+      "40 mm;6 mm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 595,
+    "question": "595. The transverse construction joint or cold joint is constructed when there is an interruption of more than ______ minutes in the PCCP concrete operation.",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "75"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 596,
+    "question": "596. In pavement construction; what is the required density of the bituminous mixtures based on laboratory density of the compacted specimens?",
+    "choices": [
+      "Equal or greater than 65%",
+      "Equal or greater than 75%",
+      "Equal or greater than 85%",
+      "Equal or greater than 95%"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 597,
+    "question": "597 . How many layers should a 40cm thick aggregate base course be placed?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 598,
+    "question": "598. It is a type of emulsified asphalt that works better with wet aggregate and in cold weather.",
+    "choices": [
+      "Anionic Emulsion ",
+      "Cationic Emulsion",
+      "Liquid Asphalt",
+      "Cutback Asphalt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 599,
+    "question": "599. If the soil is not compacted as its maximum dry density, it will:",
+    "choices": [
+      "Increase stability/strength",
+      "Minimize future settlement",
+      "Decrease permeability",
+      "Increase permeability"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 600,
+    "question": "600. What should be done on the sub-base course with existing moisture content of 10% higher than the optimum moisture of SSHTO T-180 Method D?",
+    "choices": [
+      "Spread to the required loose thickness and compact.",
+      "Add water, spread to the required loose thickness and compact.",
+      "Dry out to reduce moisture, spread to the required loose thickness and compact.",
+      "Spread to the required loose thickness"
+    ],
+    "answer": "C"
+  }
+]
