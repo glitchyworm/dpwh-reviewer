@@ -422,7 +422,7 @@
     "question": "39.Which is true on conducting of a slump test?",
     "choices": [
       "Consistency of mixture is checked by the slump test",
-      "It is simple, but important, n indicator of water  cement ratio",
+      "It is simple, but important, n indicator of water – cement ratio",
       "Slump cone is used together with tamping rod and ruler",
       "All of the above"
     ],
@@ -465,7 +465,7 @@
     "id": 43,
     "question": "43. Final compaction and smoothing of item 310 should be done by a",
     "choices": [
-      "pneumatic  tired roller",
+      "pneumatic – tired roller",
       "Sheep foot roller",
       "Vibratory roller",
       "Tandem smooth wheel roller"
@@ -496,7 +496,7 @@
   },
   {
     "id": 46,
-    "question": "46. Which of the following provisions is not included in the job  mix formula?",
+    "question": "46. Which of the following provisions is not included in the job – mix formula?",
     "choices": [
       "Mixing time",
       "Grading of aggregates",
@@ -507,7 +507,7 @@
   },
   {
     "id": 47,
-    "question": "47. A bituminous mix subjected to immersion  compression test yielded a dry stability of 2.0 kg and a wet stability of 1.5 kg. The index of retained\nstrength of the mix is",
+    "question": "47. A bituminous mix subjected to immersion – compression test yielded a dry stability of 2.0 kg and a wet stability of 1.5 kg. The index of retained\nstrength of the mix is",
     "choices": [
       "0.5",
       "1.33",
@@ -529,7 +529,7 @@
   },
   {
     "id": 49,
-    "question": "49.In the asphalting of a 3  meter wide, 200 meter long road lane, a core was obtained and tested to have a thickness of 5 cm. And a density of\n2.25 gm/ cm³. the quantity of bituminous mix to be paid, in tonnes, is",
+    "question": "49.In the asphalting of a 3 – meter wide, 200 meter long road lane, a core was obtained and tested to have a thickness of 5 cm. And a density of\n2.25 gm/ cm³. the quantity of bituminous mix to be paid, in tonnes, is",
     "choices": [
       "65.5",
       "67.5",
@@ -1389,7 +1389,7 @@
     "id": 127,
     "question": "127. The first phase of rolling the spread bituminous mix is called breakdown rolling which is carried out by pneumatic roller, temperature requirement must be ________.",
     "choices": [
-      "200  225 *F ",
+      "200 – 225 *F ",
       "190-199 *F",
       "160-180 *F ",
       "150-185 *F"
@@ -2038,10 +2038,10 @@
     "id": 186,
     "question": "186. During soaking maintain the water level in the mold and the soaking tank is approximately _____________ above the tope of the specimen.",
     "choices": [
-      "2",
-      "1",
-      "3",
-      "4"
+      "2”",
+      "1”",
+      "3”",
+      "4”"
     ],
     "answer": "B"
   },
@@ -2159,10 +2159,10 @@
     "id": 197,
     "question": "197.The undisturbed samples from Shellby Tube shall be at least_______. ",
     "choices": [
-      "10long",
-      "18long",
-      "20long",
-      "16 long"
+      "10”long",
+      "18”long",
+      "20”long",
+      "16” long"
     ],
     "answer": "B"
   },
@@ -2344,7 +2344,7 @@
   },
   {
     "id": 214,
-    "question": "214.  Plant mixed bituminous mixtures should be sampled in accordance to the Standard Method of Sampling Bituminous Mixture.  A sample not less than ______ is taken and place in sample bag that would insure against contamination.  This is taken every 75 cum. or 130 tons of mix.",
+    "question": "214.  Plant –mixed bituminous mixtures should be sampled in accordance to the Standard Method of Sampling Bituminous Mixture.  A sample not less than ______ is taken and place in sample bag that would insure against contamination.  This is taken every 75 cum. or 130 tons of mix.",
     "choices": [
       "5kg.",
       "20kg.",
@@ -2368,10 +2368,10 @@
     "id": 216,
     "question": "216.  The bottom bearing block shall be at least ___________thick when new bottom bearing block shall be at least _______ thick after any resurfacing  operations.",
     "choices": [
-      "0.8, 1.0",
-      "1.0, 0.8",
-      "0.9, 1.0",
-      "1.0, 0.9"
+      "0.8”, 1.0”",
+      "1.0”, 0.8”",
+      "0.9”, 1.0”",
+      "1.0”, 0.9”"
     ],
     "answer": "D"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 229,
-    "question": "229.What is the specification of mass percent passing in sieve 0.075 mm. No. 200 sieve grading A for aggregate base course.",
+    "question": "229.What is the specification of mass percent passing in sieve 0.075 mm. No. 200 sieve grading “A” for aggregate base course.",
     "choices": [
       " 1-12",
       "0-12",
@@ -2555,10 +2555,10 @@
     "id": 233,
     "question": "233.What is the dimension of concrete cylindrical sample?",
     "choices": [
-      " 6 dia  and  12 high",
-      "6 di  and 8 high",
-      "6 di  and  10 high",
-      "4 di And 12 high"
+      " 6” dia  and  12” high",
+      "6” di  and 8” high",
+      "6” di  and  10” high",
+      "4” di And 12” high"
     ],
     "answer": "A"
   },
@@ -3180,7 +3180,7 @@
   },
   {
     "id": 290,
-    "question": "290.Interconnected cracks forming a series of small blocks resembling alligators skin or chicken wire is called _________.",
+    "question": "290.Interconnected cracks forming a series of small blocks resembling alligator’s skin or chicken wire is called _________.",
     "choices": [
       "alligator cracking",
       "reflection cracking",
@@ -3191,7 +3191,7 @@
   },
   {
     "id": 291,
-    "question": "291. In Item 200  Aggregate Subbase Course, the fraction passing the 0.425 mm (No. 40) sieve should have a liquid limit not greater than:",
+    "question": "291. In Item 200 – Aggregate Subbase Course, the fraction passing the 0.425 mm (No. 40) sieve should have a liquid limit not greater than:",
     "choices": [
       "0.25",
       "0.35",
@@ -3334,7 +3334,7 @@
   },
   {
     "id": 304,
-    "question": "304. In performing a grading test on coarse aggregates from Item 311  PCCP, the mass percent passing of the materials for 3 and 2 ½ sieves is 100% What is the maximum size of the aggregates?",
+    "question": "304. In performing a grading test on coarse aggregates from Item 311 – PCCP, the mass percent passing of the materials for 3” and 2 ½ sieves is 100% What is the maximum size of the aggregates?",
     "choices": [
       "3 inches",
       "2 ½ inches",
@@ -3367,7 +3367,7 @@
   },
   {
     "id": 307,
-    "question": "307. The minimum moisture content at which soil can be rolled into thread of 1/8 in diameter without breaking is known as________.",
+    "question": "307. The minimum moisture content at which soil can be rolled into thread of 1/8” in diameter without breaking is known as________.",
     "choices": [
       "Liquid limit",
       "Plastic limit",
@@ -3642,7 +3642,7 @@
   },
   {
     "id": 332,
-    "question": "332. Measurement of concrete material for Item 405  Structural Concrete shall be by:",
+    "question": "332. Measurement of concrete material for Item 405 – Structural Concrete shall be by:",
     "choices": [
       "Weight",
       "Volume",
@@ -3699,10 +3699,10 @@
     "id": 337,
     "question": "337. What class of concrete and range of slump will you use in concreting thin reinforced section, railings, precast RC piles and cribbing?",
     "choices": [
-      "Class A with slump 2-4",
-      "Class B with slump 2-4",
-      "Class C with slump 2-4",
-      "Class P with slump 2-4"
+      "Class A with slump 2”-4”",
+      "Class B with slump 2”-4”",
+      "Class C with slump 2”-4”",
+      "Class P with slump 2”-4”"
     ],
     "answer": "C"
   },
@@ -3765,7 +3765,7 @@
     "id": 343,
     "question": "343. Quality of factory-produced reinforced concrete pipes may be best established through:",
     "choices": [
-      "Engineers certification",
+      "Engineer’s certification",
       "Inspection report",
       "Test of concrete cylinder samples",
       "Test of concrete pipe samples"
@@ -3840,7 +3840,7 @@
   },
   {
     "id": 350,
-    "question": "350. For each full days operation, how many asphalt core samples must be taken for thickness determination?",
+    "question": "350. For each full day’s operation, how many asphalt core samples must be taken for thickness determination?",
     "choices": [
       "At least one but not more than three core samples",
       "At least two but not more than four core samples",
@@ -3906,11 +3906,11 @@
   },
   {
     "id": 356,
-    "question": "356. Density  Voids Analysis",
+    "question": "356. Density – Voids Analysis",
     "choices": [
       "Void Mineral",
-      "Centrifugal  Kerosene",
-      "Hocem Mix  Design",
+      "Centrifugal – Kerosene",
+      "Hocem Mix – Design",
       "Marshall method"
     ],
     "answer": "D"
@@ -3950,7 +3950,7 @@
   },
   {
     "id": 360,
-    "question": "360. The minimum mass of the field samples for coarse aggregate with a minimum nominal size of aggregate of 50mm (no. 22) sieve.",
+    "question": "360. The minimum mass of the field samples for coarse aggregate with a minimum nominal size of aggregate of 50mm (no. 22”) sieve.",
     "choices": [
       "50 kgs.",
       "100 kgs.",
@@ -3994,7 +3994,7 @@
   },
   {
     "id": 364,
-    "question": "364. The surface tolerance for departure from the correct cross-section of the sufficiently hardened concrete should not exceed ____ otherwise; the pavement should be removed & replaced at contractors expense.",
+    "question": "364. The surface tolerance for departure from the correct cross-section of the sufficiently hardened concrete should not exceed ____ otherwise; the pavement should be removed & replaced at contractor’s expense.",
     "choices": [
       "15mm",
       "12mm",
@@ -4073,16 +4073,16 @@
     "id": 371,
     "question": "371. Rock gabions shall be generally uniform graded in sizes ranging from?",
     "choices": [
-      "50mm  100mm",
-      "100mm  200mm",
-      "200mm  400mm",
-      "200mm  300mm"
+      "50mm – 100mm",
+      "100mm – 200mm",
+      "200mm – 400mm",
+      "200mm – 300mm"
     ],
     "answer": "B"
   },
   {
     "id": 372,
-    "question": "372. Department Order series of 1999 re-guidelines of the accreditation of contractors and consultants materials engineers.",
+    "question": "372. Department Order series of 1999 re-guidelines of the accreditation of contractors and consultant’s materials engineers.",
     "choices": [
       "D.O. # 155",
       "D.O. # 180",
@@ -4126,18 +4126,18 @@
   },
   {
     "id": 376,
-    "question": "376. Concrete in the area represented by the cores will be considered adequate if the average strength of the cores is equal to 85% of the specified strength of fc and no single cope is less than?",
+    "question": "376. Concrete in the area represented by the cores will be considered adequate if the average strength of the cores is equal to 85% of the specified strength of f’c and no single cope is less than?",
     "choices": [
-      "85 % fc",
-      "80 % fc",
-      "75 % fc",
-      "100 % fc"
+      "85 % f’c",
+      "80 % f’c",
+      "75 % f’c",
+      "100 % f’c"
     ],
     "answer": "C"
   },
   {
     "id": 377,
-    "question": "377. Minimum weight of samples for moisture content determination for materials passing 50mm (2) sieve.",
+    "question": "377. Minimum weight of samples for moisture content determination for materials passing 50mm (2”) sieve.",
     "choices": [
       "100 grams",
       "500 grams",
@@ -4438,7 +4438,7 @@
     "choices": [
       "Non-bearing block",
       "Load bearing block",
-      "6 CHB",
+      "6” CHB",
       "None of the above"
     ],
     "answer": "B"
@@ -4557,16 +4557,16 @@
     "id": 415,
     "question": "415. Using the modified Proctor test (AASHTO T-180) method D for moisture density relation test soil, what is the height of drop to a free fall above the elevation of the soil and uniformly distributes such drops to the soil surface?",
     "choices": [
-      "381 mm (15)",
-      "305 mm (12)",
-      "457 mm (18)",
-      "254 mm (10)"
+      "381 mm (15”)",
+      "305 mm (12”)",
+      "457 mm (18”)",
+      "254 mm (10”)"
     ],
     "answer": "C"
   },
   {
     "id": 416,
-    "question": "416. What is the weight of class A riprap stones?",
+    "question": "416. What is the weight of class “A” riprap stones?",
     "choices": [
       "20 kgs to a minimum of 35 kgs with at least 50% weighing 30 kgs",
       "15 kgs to a minimum of 25 kgs with at least 50% weighing 20 kgs",
@@ -4731,7 +4731,7 @@
   },
   {
     "id": 431,
-    "question": "431. Interconnected cracks forming a series of small blocks resembling an alligators skin or chicken wire",
+    "question": "431. Interconnected cracks forming a series of small blocks resembling an alligator’s skin or chicken wire",
     "choices": [
       "Alligator cracks",
       "Hairline cracks",
@@ -4837,7 +4837,7 @@
       "Bleeding",
       "None of the above"
     ],
-    "answer": "B"
+    "answer": "b"
   },
   {
     "id": 441,
@@ -5644,7 +5644,7 @@
   },
   {
     "id": 514,
-    "question": "514. Test specimen required for items 311  Portland cement concrete pavement",
+    "question": "514. Test specimen required for items 311 – Portland cement concrete pavement",
     "choices": [
       "Concrete mold",
       "Concrete cylinder",
