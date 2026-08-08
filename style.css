@@ -1,0 +1,201 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f6f9;
+}
+
+.container{
+    width:90%;
+    max-width:900px;
+    margin:40px auto;
+    background:white;
+    border-radius:15px;
+    padding:30px;
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+
+h1,h2{
+    margin-top:0;
+}
+
+#progress{
+    font-weight:bold;
+    margin-bottom:15px;
+}
+
+.answer-btn{
+
+    width:100%;
+
+    text-align:left;
+
+    padding:16px;
+
+    margin:8px 0;
+
+    border:2px solid #dcdcdc;
+
+    border-radius:10px;
+
+    background:white;
+
+    font-size:17px;
+
+    transition:.2s;
+}
+
+.answer-btn:hover{
+
+    background:#eef5ff;
+
+    border-color:#3b82f6;
+
+}
+
+.answer-btn.selected{
+
+    background:#2563eb;
+
+    color:white;
+
+    border-color:#2563eb;
+
+}
+
+.navigation{
+
+    display:flex;
+
+    gap:10px;
+
+    margin-top:25px;
+
+}
+
+.navigation button{
+
+    flex:1;
+
+    padding:15px;
+
+    font-size:17px;
+
+}/* Question Sets */
+
+#setContainer {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 10px;
+
+    margin-top: 20px;
+
+}
+
+.set-btn {
+
+    padding: 15px;
+
+    font-size: 16px;
+
+    white-space: pre-line;
+
+    border: 2px solid #2563eb;
+
+    border-radius: 10px;
+
+    background: white;
+
+    cursor: pointer;
+
+}
+
+.set-btn:hover {
+
+    background: #2563eb;
+
+    color: white;
+
+}
+/* Questions */
+
+.question-block {
+
+    margin-bottom: 35px;
+
+    padding-bottom: 25px;
+
+    border-bottom: 1px solid #ddd;
+
+}
+
+.question-block h3 {
+
+    margin-bottom: 15px;
+
+}
+
+.question-block .answer-btn {
+
+    margin: 5px 0;
+
+}
+/* =======================
+   PASSWORD SCREEN
+   ======================= */
+
+#passwordScreen {
+
+    max-width: 500px;
+
+    margin: 100px auto;
+
+    padding: 40px;
+
+    background: white;
+
+    border-radius: 15px;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+
+    text-align: center;
+
+}
+
+#passwordInput {
+
+    width: 80%;
+
+    padding: 12px;
+
+    margin: 15px 0;
+
+    font-size: 16px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 8px;
+
+}
+
+#loginBtn {
+
+    padding: 12px 30px;
+
+    font-size: 16px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+}
+
+#passwordMessage {
+
+    color: #E53935;
+
+    font-weight: bold;
+
+}
