@@ -38,6 +38,7 @@ const passwordInput =
 const passwordMessage =
     document.getElementById("passwordMessage");
 
+const reviewHomeBtn = document.getElementById("reviewHomeBtn");
 
 // Hide the actual app initially
 document.querySelector(".container").style.display =
@@ -853,8 +854,6 @@ document.getElementById(
     }
 
 };
-
-
 // =======================
 // REVIEW PREVIOUS PAGE
 // =======================
@@ -877,3 +876,36 @@ document.getElementById(
     }
 
 };
+
+
+// =======================
+// REVIEW HOME BUTTON
+// =======================
+
+reviewHomeBtn.onclick = () => {
+
+    // Hide Review
+    document.getElementById(
+        "reviewScreen"
+    ).style.display = "none";
+
+    // Hide Result
+    document.getElementById(
+        "resultScreen"
+    ).style.display = "none";
+
+    // Hide Quiz
+    document.getElementById(
+        "quizScreen"
+    ).style.display = "none";
+
+    // Show Home / Question Sets
+    document.getElementById(
+        "homeScreen"
+    ).style.display = "block";
+
+    // Go to top
+    window.scrollTo(0, 0);
+
+};
+
